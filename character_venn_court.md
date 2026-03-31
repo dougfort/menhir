@@ -68,15 +68,17 @@ The lane to the house is unpaved for its last quarter mile, lined with ancient h
 
 ## The Stone
 
-A single menhir at the far edge of the meadow, half screened by a blackthorn hedge that has grown up around it over centuries.
+A single menhir three to four hundred yards from the back of the house — across the ha-ha, through the orchard, and across the meadow. A destination rather than a waypoint. See full character sheet for detail.
 
 - **Height:** Fifteen to eighteen feet
-- **Material:** Local limestone, gone dark with age and weather, patched with orange and grey lichen
+- **Material:** Local limestone, gone dark with age and weather, patched with orange, grey, and black lichen
+- Stands on a low mound — three to four feet of rise above the surrounding meadow, possibly natural, possibly the remnant of an ancient barrow
 - Leans very slightly — not enough to worry about, just enough to suggest it has opinions about vertical
-- Has stood so long that the field has built up around its base — no one knows how deep it goes
-- The surface is not smooth: slight concavities, marks that might be weathering and might be something else
-- Seen from the house it is partly hidden by the orchard and the rise of the meadow — the top appears first on approach, then more as you descend
-- The blackthorn around its base is ancient and nearly impenetrable — one gap exists that may once have been deliberate
+- No blackthorn or woody scrub grows near it — the vegetation simply declines to
+- The grass thins and shortens as you approach, as if the immediate vicinity operates by slightly different rules
+- Two limestone boulders nearby, worn smooth on their upper surfaces, serve as seats — one Edmund's by habit, one waiting
+- Seen from the house it is partly hidden by the orchard — the top visible from certain upper windows on clear days, including from Ned's bedroom
+- Mobile signal near the stone is unreliable in ways not entirely explicable by geography
 
 ---
 

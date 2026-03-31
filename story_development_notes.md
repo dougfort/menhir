@@ -50,15 +50,17 @@ This gives Ned a grounded ordinary life — school, friends, chip shops, footbal
 
 ## The Stone
 
-A single **menhir** at the far edge of the meadow, half screened by a blackthorn hedge that has grown up around it over centuries.
+A single **menhir** three to four hundred yards from the back of Venn Court — across the ha-ha, through the orchard, and across the meadow. A destination rather than a waypoint. See full character sheet for detail.
 
 - **Height:** Fifteen to eighteen feet
-- **Material:** Local limestone, gone dark with age and weather, patched with orange and grey lichen
+- **Material:** Local limestone, gone dark with age and weather, patched with lichen in orange, grey, and black
+- Stands on a low mound — three to four feet above the surrounding meadow, possibly natural, possibly the remnant of an ancient barrow
 - Leans very slightly — just enough to suggest it has opinions about vertical
-- Has stood so long that the field has built up around its base — no one knows how deep it goes
-- The surface has slight concavities and marks that might be weathering and might be something else
-- Seen from the house it is partly hidden — the top appears first on approach, then more as you descend
-- Mobile signal near the stone is unreliable in ways that may or may not be coincidental
+- No blackthorn or woody scrub grows near it — the vegetation simply declines to
+- The grass thins and shortens on approach, as if the immediate vicinity operates by slightly different rules
+- Two limestone boulders nearby, worn smooth on their upper surfaces — one Edmund's by habit, one waiting
+- Visible from Ned's bedroom window on a clear night — a dark vertical shape against the sky
+- Mobile signal near the stone is unreliable in ways not entirely explicable by geography
 - Local people know about it — a thin persistent layer of folklore, nothing dramatic. Older residents remember being told not to touch it as children without anyone explaining why
 
 ---
