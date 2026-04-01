@@ -15,6 +15,8 @@ A fictional story with fantasy elements, aimed at intelligent grade school child
 
 The story is set in **2026** — the present day. The contrast between the contemporary and the ancient is a central tension. Ned arrives with a phone in his pocket that can theoretically answer any question. The stone resists that. Edmund's library of old books becomes more eccentric and more charming against a modern backdrop, not less.
 
+**Ned arrives in mid to late July 2026**, at the start of the English summer holiday, having just completed Year 4. He will start Year 5 at the Somerton primary school in early September — giving him approximately six weeks at Venn Court before the ordinary world reasserts itself. Long enough for something to take root.
+
 ---
 
 ## Location
@@ -71,18 +73,20 @@ A single **menhir** three to four hundred yards from the back of Venn Court — 
 Mid to late forties. Tall, lean, unhurried. Secretly writes fantasy and horror fiction under a pseudonym (to be determined) in the tradition of Arthur Machen. Neighbors believe him to be an antiquary. Never married. Craves solitude for its own sake. In his younger days experimented with the occult — approached as curiosity, leaving him settled and unafraid of strange things. Has a quiet, meditative relationship with the stone. Little experience of actual children, whom he finds faintly magical from a distance. See full character sheet.
 
 ### Ned
-Nine or ten. Small and slender, light brown hair, steady brown eyes. Bright and even tempered. Has been passed around family members since he was small — sent to Venn Court as a last stop before foster care. Self contained, reads people accurately, easy to like without being eager to please. Reads a lot. Has built an elaborate private fantasy world documented in notebooks he carries everywhere. Wants, very quietly, somewhere permanent. See full character sheet.
+Nine years old, having just completed Year 4. Will enter Year 5 at Somerton primary school in September. Small and slender, light brown hair, steady brown eyes. Bright and even tempered. Has been passed around family members since he was small — sent to Venn Court as a last stop before foster care. Self contained, reads people accurately, easy to like without being eager to please. Reads a lot. Has built an elaborate private fantasy world documented in notebooks he carries everywhere. Wants, very quietly, somewhere permanent. See full character sheet.
 
 ---
 
 ## Story Possibilities
 
+- The six weeks of summer before school gives Ned and Edmund time alone together — and time near the stone — before the ordinary world of Somerton arrives
+- September and the new school is a natural horizon, a built-in turning point
 - Ned might have a school friend or two who know the estate exists but have never quite visited
 - Local people may have half-remembered folklore about the stone — old jokes, things grandparents said
 - The contrast between Ned's ordinary town life and the ancient mystery of the estate is a key structural element
 - The overlap between Ned's private fantasy world and Edmund's professional imaginative world is rich and unforced — two people who have each built a private world, meeting across a forty year gap
 - Edmund will treat Ned like an interesting adult, which Ned hasn't encountered before
-- The stone noticed by Ned on the first day — nothing said about it for quite some time
+- The stone's first visit should happen naturally during the six summer weeks, not rushed
 
 ---
 
