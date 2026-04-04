@@ -32,9 +32,31 @@ Ned's activities during these hours are his own. Edmund does not organise them o
 
 ---
 
+## Ned's Chores
+
+Chores arrive the way most things do at Venn Court — not announced, not assigned, simply appearing as part of the natural order of things.
+
+The first happens in Ned's second week. Edmund is busy with the manuscript and mentions, without looking up, that the beans in the kitchen garden look ready and he hasn't had time to check. Could Ned have a look? Ned goes. He comes back with beans. Edmund cooks them for dinner and mentions, equally without ceremony, that they are the best of the season. And then it becomes a thing Ned does.
+
+Before sending him into the kitchen garden alone for the first time, Edmund produces a book from the library — a large, dense Victorian volume called *The Vegetable Garden* by Vilmorin-Andrieux, published in 1885, over six hundred pages long, illustrated throughout with meticulous engravings of every vegetable known to nineteenth century France. He hands it to Ned with complete seriousness, as if this is perfectly natural.
+
+Ned takes it with equal seriousness. He carries it to the kitchen garden under his arm and consults it gravely. The prose is Victorian and elaborate and he occasionally has to read a sentence three times. He does not mention this.
+
+**The kitchen garden** becomes partly Ned's territory over the summer. He weeds, waters, harvests what is ready. He learns which corner gets the afternoon sun, where the raspberries come in thickest, what the espaliered pears need. He brings Vilmorin-Andrieux with him on his first several visits, carrying the great book under his arm, consulting it over individual beans with an expression of careful scholarship.
+
+**The woodshed** comes later. One afternoon Edmund is splitting logs and Ned drifts over and watches for a while. Edmund hands him a piece of wood to stack without particular ceremony. Ned stacks it. Then another. The arrangement establishes itself.
+
+**Errands on the bicycle** — fetching bread from Mrs. Perrett, returning library books, collecting small items from the hardware shop when Derek has something Edmund ordered. These give Ned independence and purpose simultaneously. Derek always has the item ready and nods as if Ned has been running this errand for years.
+
+**Washing up** — already established from the second night, Edmund washing and Ned drying. The most companionable chore, conducted in the comfortable silence that has become their native language.
+
+The chores give Ned something that no amount of kindness or conversation could quite provide — a legitimate claim on the place. He knows this garden. He knows where the tools live. He knows which logs are dry and which need another week. This is not a guest's knowledge. It is the knowledge of someone who belongs here.
+
+---
+
 ## Ned's Morning — Possibilities
 
-On fine days Ned is usually on his bicycle by half past nine. The lanes around Venn Court suit a boy alone in summer — quiet, hedged, the occasional tractor but nothing threatening.
+On fine days Ned is usually on his bicycle by half past nine, after his kitchen garden check. The lanes around Venn Court suit a boy alone in summer — quiet, hedged, the occasional tractor but nothing threatening.
 
 **Somerton** is the primary destination. Two to three miles, twenty to thirty minutes at Ned's pace. He knows the market square now, the baker's where Mrs. Perrett will occasionally produce something from beneath the counter without being asked, the hardware shop where Derek nods at him as if he has always been there.
 
