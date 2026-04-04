@@ -1,10 +1,10 @@
-# Prose Draft — Chips at Castle Cary
+# Prose Draft — Chips at Castle Cary (Revised)
 
 ---
 
 Edmund was on the platform with a piece of paper that said NED on it in large, careful letters, which he realised immediately was unnecessary. There was only one unaccompanied boy on the train, and he was walking toward Edmund already, backpack on his front rather than his back, watching everything.
 
-He was smaller than Edmund had expected. Slight, with light brown hair and the kind of steady brown eyes that made you feel you were being assessed quite accurately and without malice. He stopped a sensible distance away and looked at the piece of paper, and then at Edmund.
+He was smaller than Edmund had expected. Slight — more than slight, actually, with the particular spareness of a child who has not always eaten regularly and has learned not to mention it. Light brown hair, and the kind of steady brown eyes that made you feel you were being assessed quite accurately and without malice. He stopped a sensible distance away and looked at the piece of paper, and then at Edmund.
 
 "I'm Ned," he said, as if this were a reasonable thing to have to clarify.
 
@@ -16,17 +16,21 @@ They looked at each other for a moment.
 
 "Well," said Edmund. "Good journey?"
 
-"Fine, thank you." Then, after a brief pause: "I ate my lunch too early."
+"Fine, thank you."
 
-Edmund folded the piece of paper and put it in his jacket pocket, which already contained, as far as he could recall, a penknife, three receipts, a small fossil, and a length of garden twine. "There's a chip shop on Station Road," he said. "It's a short walk. If that would help."
+Edmund folded the piece of paper and put it in his jacket pocket, which already contained, as far as he could recall, a penknife, three receipts, a small fossil, and a length of garden twine. He looked at the boy again — the slight frame, the backpack held close, the careful neutrality of someone who did not intend to ask for anything.
 
-Ned considered this with what appeared to be genuine seriousness. "Yes please," he said.
+"There's a chip shop on Station Road," he said. "I thought we might stop. If you're not in a hurry."
+
+Ned considered this with what appeared to be genuine seriousness, as if it were a question with implications he needed to think through. "All right," he said.
 
 ---
 
 It was a proper chip shop — small, warm, smelling correctly of hot oil and salt — and the woman behind the counter knew Edmund by name, which seemed to mildly surprise Ned. They took their paper parcels outside and sat on a low wall in the afternoon sun. Edmund had ordered for both of them without asking, which could have been presumptuous but turned out to be exactly right: chips, and a can of something cold.
 
-Ned ate with the focused efficiency of someone genuinely hungry. Edmund ate at his usual pace, which was unhurried.
+Ned ate with the focused efficiency of someone genuinely hungry, which he was. He did not eat quickly or desperately — there was nothing performed about it — but the concentration he brought to the chips was total, and Edmund noticed that it was a while before he looked up.
+
+Edmund ate at his usual pace, which was unhurried.
 
 For a while neither of them said anything, which Edmund found unexpectedly comfortable. Most people, in his experience, felt obliged to fill silence. The boy apparently did not.
 
@@ -56,7 +60,7 @@ Edmund waited, eating a chip.
 
 Ned appeared to find this a satisfactory answer. He ate another chip.
 
-Edmund looked at the boy, who was looking at the street with those attentive eyes of his, and thought that this was either going to be very straightforward or very complicated, and that he wasn't yet sure which, and that this uncertainty was not entirely unpleasant.
+Edmund looked at the boy, who was looking at the street with those attentive eyes of his, and thought two things more or less simultaneously: that this child had learned very early not to ask for what he needed, and that he was going to have to be careful about that. The second thought was that this was either going to be very straightforward or very complicated, and that he wasn't yet sure which, and that this uncertainty was not entirely unpleasant.
 
 "Ready?" he said, when the chips were finished.
 
@@ -66,4 +70,4 @@ They walked back to the car. The afternoon was warm. The drive to Venn Court wou
 
 ---
 
-*Draft notes: This scene is the first real meeting. The piece of paper establishes Edmund's slightly awkward preparation. Ned's immediate directness — "I ate my lunch too early" — signals his character: honest, not complaining, not performing distress. Edmund's response is practical and without fuss, which is his version of kindness. The silence they share is important — both of them are people who are comfortable in their own heads. Ned's observation about the levels rhymes with the earlier train passage and suggests he is already, without knowing it, tuned to something. Edmund's recognition that this is either simple or complicated sets up everything that follows.*
+*Draft notes: The revision removes Ned's declaration about eating his lunch too early — he would not say this. His policy is to make himself small and ask for nothing. Edmund's observation of the boy's slight build — more than slight, the spareness of a child who has not always eaten regularly — establishes the undernourishment immediately, as something Edmund registers and acts on quietly, without comment. The chip shop is Edmund's idea, offered as a casual suggestion rather than a response to a stated need. Ned's "all right" rather than "yes please" is the right answer from a boy who has learned to accept things carefully, without eagerness. The final paragraph gives Edmund two simultaneous thoughts: the practical concern about a child who doesn't ask for what he needs, and the larger uncertainty about what this arrangement will become.*
