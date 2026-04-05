@@ -1,4 +1,4 @@
-# Prose Draft — The First Visit to the Stone
+# Prose Draft — The First Visit to the Stone (Revised)
 
 ---
 
@@ -40,6 +40,10 @@ Warm. He had not expected that. Warm and dry, while the meadow around him was st
 
 He stood like that for a moment.
 
+It occurred to him, standing there, that nothing was wrong. This was the strangest place he had ever been — a stone that had been here before human memory, warm as a living thing, in a field where the grass didn't grow properly and the compass didn't work — and nothing was wrong. He was not waiting for something to go wrong. He was not holding himself carefully in case he caused something. He was simply standing here with his hand on an ancient stone in the morning sun, and the feeling was not familiar at all. Not at all.
+
+He would have to think about that.
+
 Then he became aware that his compass was in his pocket and his hand was already going to it before he had quite decided to.
 
 He looked at the needle.
@@ -48,7 +52,13 @@ It was not pointing north.
 
 Not dramatically wrong — not spinning or shaking. Just pointing somewhere that was not north, quietly and with apparent conviction, as if it had decided that north was a matter of opinion in this particular place. He turned slowly and the needle turned with him, tracking something other than magnetic north, something the compass had apparently decided was more important.
 
-He stared at it for a long moment. Then he closed his fist around it and put it back in his pocket.
+He stared at it for a long moment.
+
+He thought of Edmund, sitting on his boulder a few feet away, and had the unfamiliar and not quite manageable feeling that this was something he might not need to put immediately in his pocket. That this was perhaps, for the first time, someone he could show it to. That Edmund would look at it the way he looked at most things — with attention, and without alarm.
+
+He was not ready for that yet. But he noted the thought and put it aside for later, the way you put aside a word you don't know how to use yet.
+
+He closed his fist around the compass and put it back in his pocket.
 
 Edmund was sitting on one of the low boulders — the left one, as you faced the stone — in the manner of someone who had been sitting there for years, which he had. Ned went to the other boulder and sat down.
 
@@ -94,13 +104,17 @@ He looked at Ned.
 
 "No," Ned agreed. "But I think you're right."
 
+He said this quietly and with the particular quality of certainty that he reserved for things he knew from direct experience rather than from reasoning. Edmund heard the difference, though he would not have been able to say precisely how.
+
 Edmund looked at him for a moment with an expression Ned was becoming familiar with — the one that meant he had been mildly surprised and found the surprise acceptable.
 
 "What made you say that?" Edmund asked.
 
-Ned thought about the compass in his pocket. He thought about the warmth under his palm. He thought about the needle pointing somewhere that was not north, quietly and with conviction.
+Ned thought about the compass in his pocket. He thought about the warmth under his palm. He thought about the needle pointing somewhere that was not north, quietly and with conviction. He thought about the thought he had put aside — that this was someone he might eventually show it to.
 
-"I don't know yet," he said. Which was true, and which he thought was probably the right answer.
+"I don't know yet," he said. Which was true, and which he thought was probably the right answer for now.
+
+Edmund received this without pressing. He understood, Ned thought, the difference between *I don't know* and *I don't know yet.* Most adults didn't.
 
 ---
 
@@ -108,7 +122,7 @@ They sat for a while longer. The meadow was full of insect sound. A buzzard went
 
 The stone stood in its slight lean and said nothing, which was what it always did, and which was, Ned was beginning to understand, exactly what it meant.
 
-When they stood to go Edmund put his hand briefly on Ned's shoulder — a light, unpractised gesture, the hand of a man not accustomed to the motion but making it anyway. Ned didn't flinch or lean into it. He simply stood there, which was enough.
+When they stood to go Edmund put his hand briefly on Ned's shoulder. A light touch, a little awkward — the gesture of a man who has arrived at something he means and is still learning the physical vocabulary for it. Ned didn't flinch or lean into it. He simply stood there and let it be what it was, which seemed to be enough for both of them.
 
 They walked back through the orchard without talking. The bees were still working the long grass under the trees.
 
@@ -134,4 +148,4 @@ He sat with the pen in his hand for a while, not writing anything else. Then he 
 
 ---
 
-*Draft notes: Edmund's monologue is the centre of the scene — the first time he has said any of this aloud, which he acknowledges. The compass is used carefully: noticed, not explained, put away. Ned's response — "I don't know yet" — is exactly right; it leaves everything open. Edmund's brief touch on the shoulder is the adoption thread beginning, visible in the prose only as a slight awkwardness, an unpractised gesture. And Ned beginning to map Venn Court in his real-world notebook — moving it from the actual world into the world he makes permanent — is the emotional close of the scene, doing its work quietly. The shelf with Edmund's three books is where the notebook goes: Ned is placing this world alongside the ones Edmund gave him.*
+*Draft notes: The main revisions are three. First, the passage where Ned notices that nothing is wrong — the strangest place he has ever been, and no familiar dread — names without over-explaining what is different about Venn Court. Second, Ned's thought about showing Edmund the compass: not ready yet, but the thought arrives, is noted, is put aside for later. This plants the seed of Conversation Four from the sequence document. Third, the qualifier on his agreement with Edmund — "I don't know yet" rather than simply "I don't know," and Edmund hearing the difference — establishes that Ned is already, cautiously, thinking of this as knowledge he is approaching rather than something permanently closed. The touch on the shoulder is revised to acknowledge Edmund's awareness of making an unfamiliar gesture — "still learning the physical vocabulary for it" — without overexplaining. Everything else is kept as it was.*
