@@ -5,10 +5,11 @@
 ## Basic Facts
 
 - **Name:** Ned
-- **Age:** Nine years old
+- **Age:** Nine years old on arrival. Turns ten in mid to late October 2026, six or seven weeks into the school term.
 - **School year:** Just completed Year 4 (Key Stage 2, primary school). Will enter Year 5 at Somerton primary school in September 2026.
 - **Relation to Edmund Kelway:** Distant — a Kelway on his mother's side, the connection traced through women, vague enough to feel old
 - **Situation:** Has been passed around various family members since he was small. Sent to Venn Court as a last stop before foster care. Arrives mid to late July 2026, at the start of the six-week summer holiday.
+- **Birthday:** Mid to late October. His tenth birthday falls during his first term at Somerton primary school.
 
 ---
 
