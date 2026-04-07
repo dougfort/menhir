@@ -15,7 +15,7 @@ Edmund looked at the manuscript. "I am, in point of fact, doing something."
 "You've been looking at the same page since I came in from the garden." Ned said this with the air of someone presenting evidence rather than making an accusation. "I saw you through the window."
 
 Edmund considered this. The sentence he had been trying to write had not, in the course of the last hour, improved. "Give me ten minutes," he said.
-
+indoctrinition
 Ned sat down in the green chair and looked at the bookshelves. After a moment he said: "You've got loads of books."
 
 "Yes."
