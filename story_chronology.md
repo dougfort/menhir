@@ -104,13 +104,27 @@ Dinner: slow-roasted lamb. Ned mentioning he could smell it from the garden from
 
 Ned reads *The Tarn of Sacrifice*. The line that stays with him: *I am glad that you have come at last. We have been expecting you.*
 
-A second visit to the stone — possibly a third. The compass shown to Edmund without words, simply held out.
+The second stone visit — Ned's idea this time, not Edmund's. He initiates from the library doorway: *You've been looking at the same page since I came in from the garden.*
 
-*How long has it done that?* / *Only here.* / *You've checked it elsewhere?* / *Yes.*
+At the stone: the compass shown without words, held out flat on Ned's palm. Edmund's reception — no alarm, only attention. *How long has it done that?* / *Only here.* / *You've checked it elsewhere?* / *Yes.* Edmund nods. Thinking of his watch, the kitchen lamp. Says none of this yet.
 
-Edmund nods. He is thinking of his watch. The kitchen lamp. He says none of this yet.
+Ned's observation: *It thinks the stone is where north should be.* Offered and then immediately called *probably rubbish.* Edmund: *It is not obviously rubbish.* The technical papers mentioned. Ned asking for them.
 
-A conversation beginning to form about what Edmund has noticed since Ned arrived. Not yet. But forming.
+Ned's dry remark about Will's internet research — the first time he has been wry with Edmund about something.
+
+### Days ~22-26 — The Technical Papers
+
+Ned at the kitchen table with Lethbridge and the magnetometer studies. A pencil for underlining. Edmund at the far end with the manuscript.
+
+Ned asks about a magnetometer. About contested evidence. Arrives at: *that's basically everything about standing stones though — you can look at the same thing and get completely different answers.* Edmund: *that is a fair characterisation of the field, yes.*
+
+Then Ned asks: *Does your watch go wrong?* The targeted question — already in possession of related information, checking it against Edmund's. Edmund confirms. The kitchen lamp mentioned. Ned's *sorry* said to the paper — automatic, reflex, the apology of someone who has assumed for years that what he does is wrong. Edmund: *don't be.* Quiet and complete.
+
+### Day ~24 — Edmund at the Stone (Early Morning)
+
+Edmund alone at the stone, earlier than usual. Processing the previous day. His private theory solidifying — the boy is not haunted or damaged, he carries something that has had nowhere suitable to go, and at Venn Court the stone receives it.
+
+*It thinks the stone is where north should be.* Edmund turning this over. The smell of toast from the kitchen as he walks back. Ned is up.
 
 ### Day ~28 — Edmund Asks About School
 
@@ -122,17 +136,19 @@ Edmund's answer: *I am not registering you at a school in order to remove you fr
 
 Ned's *all right* — quiet and considered. His *thank you*, later, said to his tea rather than to Edmund's face.
 
-### Days ~30-35 — Edmund's Equanimity Opens the Door
+### Days ~30-35 — Conversations Five and the Threshold of Six
 
-*Doesn't it bother you? The compass.*
+An evening. Ned puts down the Blackwood. *Doesn't it bother you? The compass.*
 
-Edmund's response: *Strange things happen near the stone. I've observed this for thirty years. What else have you observed?*
+Edmund: *Strange things happen near the stone. I've observed this for thirty years. What else have you observed?*
 
-Ned's first small disclosure: *Sometimes things move. Objects. When I'm in a particular kind of place.*
+Ned's first disclosure: *Sometimes things move. Objects. When I'm in a particular kind of place.* / *A place that doesn't feel right.* / *This place feels right.*
 
-*And this place?* / A long pause. / *This place feels right.*
+Edmund then mentions the lamp and his watch — observations, not accusations. Ned: *You noticed.*
 
-Edmund noting what he has observed since Ned arrived — the lamp, his watch — described as observations, not accusations. Ned: *You noticed.*
+Ned continues: *It happened in every house. Every place I've been.* The threshold of his full history — but Edmund says *not tonight*. Tonight is enough. Ned's second *thank you*, said to his book.
+
+**Note:** This scene reaches the threshold of Conversation Six but does not cross it. The full disclosure — the specific history, the first house Ned remembers — is deferred deliberately. It belongs in the school term, when the relationship has another layer on it and Ned has had time to decide he is ready.
 
 ---
 
@@ -140,19 +156,35 @@ Edmund noting what he has observed since Ned arrived — the lamp, his watch —
 
 ### Early September — School Begins
 
-Ned starts Year 5 at the Somerton primary school. A new rhythm: the bicycle ride to school, the school day, coming home. Edmund's mornings alone again, as before, except not quite as before.
+Ned starts Year 5 at the Somerton primary school. A new rhythm: the bicycle ride to school, the school day, coming home. Edmund's mornings alone again — as before, except not quite as before. The house is different when Ned is absent in it.
 
-Ned encountering Somerton differently — as a school rather than a summer destination. The local children becoming classmates rather than summer acquaintances. A friendship beginning, perhaps, with someone specific.
+Ned encountering Somerton differently — as a school rather than a summer destination. The local children becoming classmates rather than summer acquaintances. A specific friendship beginning — someone in his year who recognises something in him.
 
-The bedtime reading ritual continues. *The Little Prince* has been finished. Other books begun.
+The bedtime reading ritual continues. *The Little Prince* has been finished. Other books begun — perhaps moving into territory suggested by Edmund's library.
 
-### September Onwards — Conversations Continuing
+Edmund registering Ned at school in late August, before term begins. The school's gentle questions about parental responsibility. Edmund beginning to think about what formalising his role would require.
 
-The deeper conversations arise in the new rhythm — evenings, weekends, walks. More of Ned's history emerging in small stages, the wall he has maintained for as long as he can remember coming down gradually and without drama.
+### September Onwards — The Gap Before Conversation Six
 
-Edmund's private theory solidifying. His thinking about what to do with it — practically, legally, in terms of the adoption question — moving from background toward something he will have to address.
+Several weeks of ordinary term-time life. The new rhythm establishing itself. Ned coming home from school and reporting on the day — at first minimally, then with more detail as the weeks pass. A specific friend named, perhaps brought up in conversation. The kitchen garden changing with the season.
 
-The question of what the right book about the stone might be. Edmund beginning to think about this differently.
+The deeper conversations paused — not avoided, simply not yet ready. Both of them living with what was said in late July without needing to add to it immediately.
+
+Edmund continuing to think. Reading in the evenings. His thinking about Ned's history, about the stone, about what he is beginning to understand, becoming more ordered.
+
+### Sometime in September or October — Conversation Six
+
+*Setting: Kitchen, evening. The right moment, which arrives without being arranged.*
+
+Edmund mentions the lamp and the watch — not for the first time, but more fully. *I've been thinking about what you said.*
+
+Ned: *You noticed.*
+
+*Yes. I thought it might have happened before.*
+
+*It did. In other houses.*
+
+Then Ned tells him. Not everything. But something specific — the first house he can remember, the thing he has never told anyone. Edmund listens, with attention and without hurry, the way he does everything.
 
 ---
 
