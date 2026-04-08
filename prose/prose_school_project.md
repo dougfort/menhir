@@ -38,7 +38,7 @@ Ned looked at him. "They built a pub around a neolithic tomb."
 
 Edmund dried his hands and came to sit at the table. This was something he had started doing over the course of the summer — sitting down when Ned asked him something, rather than answering from across the room. It had happened gradually and without discussion.
 
-"I've been several times," he said. "It's extraordinary. Most of the stones are fallen now — you have to look carefully to see the shape of the circles. But when you do —" He pausa question that had kept him interested for thirty years being posed as a school project by a nine year old boed. "When you do, the scale of it becomes real. The Great Circle is enormous. What they moved, and where they moved it from."
+"I've been several times," he said. "It's extraordinary. Most of the stones are fallen now — you have to look carefully to see the shape of the circles. But when you do —" He paused. "When you do, the scale of it becomes real. The Great Circle is enormous. What they moved, and where they moved it from."
 
 "The book said the geophysical surveys found postholes," Ned said. "Inside the circles. Where there used to be wooden posts."
 
@@ -134,7 +134,7 @@ Ned leaned over the map. His eyes moved across it with the particular focused at
 
 "It's all still there," he said. "Underneath."
 
-a question that had kept him interested for thirty years being posed as a school project by a nine year old boa question that had kept him interested for thirty years being posed as a school project by a nine year old bo"Underneath. Bronze Age villages, Neolithic settlements, wooden trackways, bog bodies. The peat has kept all of it." Edmund traced a line on the map. "The Sweet Track ran roughly here. You can't see it — it's six feet down in the peat — but it's there."
+"Underneath. Bronze Age villages, Neolithic settlements, wooden trackways, bog bodies. The peat has kept all of it." Edmund traced a line on the map. "The Sweet Track ran roughly here. You can't see it — it's six feet down in the peat — but it's there."
 
 Ned looked at the map for a long time. Then: "Is the stone on here?"
 
@@ -234,6 +234,10 @@ Ned stood and looked at them for a moment.
 
 Ned looked at the stones. They were old in a way the surroundings were not. The picnic tables belonged to the last thirty years. The pub to the eighteenth century. The stones to a time so far back that the concept of a pub, or a garden, or a village, or even the language Ned was thinking in, had not yet existed.
 
+And yet they were the same. Standing here among the plastic chairs exactly as they stood — he thought of this without quite deciding to — as the stone in the meadow stood in its field. The same quality. The same presence. Not diminished by the parasol and the stack of chairs. Not requiring the meadow, or the privacy, or Edmund's thirty years of attention. Simply what they were, regardless.
+
+He stood with this for a moment.
+
 "Edmund," Ned said.
 
 "Yes."
@@ -266,4 +270,4 @@ Then he got out of the car and went to make tea.
 
 ---
 
-*Draft notes: Three days, three movements. Day one is the discovery of Stanton Drew — the scale of it, the pub garden stones, Ned making the Somerset map, Edmund sitting down to answer properly, the first articulation of the idea that the stone at Venn Court was part of a conversation across the landscape. Day two is the Sweet Track and the OS map — Ned working out the arithmetic of five thousand years, the moment of finding the monument symbol on the map, the grid reference copied into his notebook. The phrase "the real and the private, the official and the felt, on the same page" is the day's closing image. Day three is the Stanton Drew visit — the field, the fallen stones, the compass behaving differently here than at Venn Court, Edmund noting the difference between distributed and concentrated anomaly. The Cove in the pub garden. Ned asking whether the people who built the pub knew what the stones were — Edmund's answer about people always knowing on some level that these things are not to be disturbed. And then Ned's project question: why do people keep coming back, even when they've forgotten what the sites were for. Edmund recognising it as the question that has kept him interested for thirty years. The scene ends with Edmund alone in the car for a moment, and then going to make tea. Ned's use of the word "home" — *the stone at home* — is noted by Edmund and not commented on. This is significant.*
+*Draft notes: Three days, three movements. Day one is the discovery of Stanton Drew — the scale of it, the pub garden stones, Ned making the Somerset map, Edmund sitting down to answer properly, the first articulation of the idea that the stone at Venn Court was part of a conversation across the landscape. Day two is the Sweet Track and the OS map — Ned working out the arithmetic of five thousand years, the moment of finding the monument symbol on the map, the grid reference copied into his notebook. The phrase "the real and the private, the official and the felt, on the same page" is the day's closing image. Day three is the Stanton Drew visit — the field, the fallen stones, the compass behaving differently here than at Venn Court, Edmund noting the difference between distributed and concentrated anomaly. The Cove in the pub garden: Ned's recognition that the stones are entirely themselves regardless of the picnic furniture, that the stone at Venn Court doesn't need Edmund's attention or the privacy of the meadow to be what it is — it simply is what it is, wherever it ends up. This is a significant interior shift. Ned asking whether the people who built the pub knew what the stones were — Edmund's answer about people always knowing on some level that these things are not to be disturbed. And then Ned's project question: why do people keep coming back, even when they've forgotten what the sites were for. Edmund recognising it as the question that has kept him interested for thirty years. The scene ends with Edmund alone in the car for a moment, and then going to make tea. Ned's use of the word "home" — *the stone at home* — is noted by Edmund and not commented on. This is significant.*
