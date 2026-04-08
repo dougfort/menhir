@@ -95,3 +95,41 @@ Nine years old, having just completed Year 4. Will enter Year 5 at Somerton prim
 - Deciding Edmund's pseudonym
 - Developing the plot
 - Continuing iterative world-building and character work
+
+---
+
+## Venn Court — Inheritance and the Will
+
+*Added during drafting. Relevant to the third movement.*
+
+### The Legal Position
+
+Entail — the mechanism that kept estates in a particular line of descent — was effectively abolished by the Law of Property Act 1925. Venn Court cannot be entailed in any binding modern sense. Edmund owns it outright, or as the beneficial owner of whatever legal structure a previous generation established.
+
+If there are distant Kelway relatives — and there probably are, the connection through which Ned arrived being evidence of a wider if attenuated family — they may have been assuming, in the vague way of people who have never had to think about it directly, that Venn Court would eventually come to them. The adoption of Ned changes this assumption. This is not a dramatic conflict. It is the kind of thing that surfaces in solicitors' letters, if at all.
+
+### Edmund's Situation Before Ned
+
+Edmund has almost certainly not thought carefully about inheritance. The question has felt remote and theoretical — there is no one obvious to leave Venn Court to. He may have a will, drawn up years ago, that leaves the estate to a literary charity or the National Trust or simply to whatever Kelway relatives can be traced. He has not revisited it because there has been no reason to.
+
+Ned changes this.
+
+### After Adoption — The Will
+
+When Edmund sees a solicitor about the formal adoption process, the solicitor will raise the question of the will. Edmund will be asked whether he wishes to update his arrangements. He will sit with this for a while, in his usual way. Then he will do it.
+
+A new will naming Ned as his heir. Venn Court to pass to Ned on Edmund's death. Not a complicated document. A deliberate one.
+
+Ned will not know about this — not for years, possibly. Edmund will not mention it. It is not the kind of thing Edmund mentions. But he will have done it, quietly and without drama, while Ned is still ten years old and worried about whether his geography maps are too elaborate for Year 5.
+
+### The Deeper Meaning
+
+The will is Edmund's longest view of belonging. Registration at school, the signed reading diary, the bicycle — these are acts of the present. A will is an act directed entirely at the future, at a time Edmund will not see. It says: I intend this place to be yours after I am gone. I have decided this. I am not waiting to be certain.
+
+It is also, privately, Edmund recognising something the story has been building toward — that Venn Court and the stone have been waiting for a particular occupant, and that occupant is not Edmund. Edmund has been the custodian. Ned is the inheritor in a sense that precedes the legal one.
+
+The book Edmund thinks may not be his to write. The will he makes while Ned is ten. Both are the same recognition, expressed differently.
+
+Ned finding out — perhaps when he is much older, going through Edmund's papers, or perhaps from a solicitor after Edmund's death — that this decision was made when he had been at Venn Court for only a few months. That Edmund decided, early and quietly, that this was settled.
+
+That is worth knowing.
