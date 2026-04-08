@@ -38,7 +38,7 @@ Ned looked at him. "They built a pub around a neolithic tomb."
 
 Edmund dried his hands and came to sit at the table. This was something he had started doing over the course of the summer — sitting down when Ned asked him something, rather than answering from across the room. It had happened gradually and without discussion.
 
-"I've been several times," he said. "It's extraordinary. Most of the stones are fallen now — you have to look carefully to see the shape of the circles. But when you do —" He paused. "When you do, the scale of it becomes real. The Great Circle is enormous. What they moved, and where they moved it from."
+"I've been several times," he said. "It's extraordinary. Most of the stones are fallen now — you have to look carefully to see the shape of the circles. But when you do —" He pausa question that had kept him interested for thirty years being posed as a school project by a nine year old boed. "When you do, the scale of it becomes real. The Great Circle is enormous. What they moved, and where they moved it from."
 
 "The book said the geophysical surveys found postholes," Ned said. "Inside the circles. Where there used to be wooden posts."
 
@@ -134,7 +134,7 @@ Ned leaned over the map. His eyes moved across it with the particular focused at
 
 "It's all still there," he said. "Underneath."
 
-"Underneath. Bronze Age villages, Neolithic settlements, wooden trackways, bog bodies. The peat has kept all of it." Edmund traced a line on the map. "The Sweet Track ran roughly here. You can't see it — it's six feet down in the peat — but it's there."
+a question that had kept him interested for thirty years being posed as a school project by a nine year old boa question that had kept him interested for thirty years being posed as a school project by a nine year old bo"Underneath. Bronze Age villages, Neolithic settlements, wooden trackways, bog bodies. The peat has kept all of it." Edmund traced a line on the map. "The Sweet Track ran roughly here. You can't see it — it's six feet down in the peat — but it's there."
 
 Ned looked at the map for a long time. Then: "Is the stone on here?"
 

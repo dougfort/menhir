@@ -129,6 +129,22 @@ Edmund alone, processing. His private theory solidifying — the boy carries som
 
 ---
 
+### 16. The School Project — Somerset Prehistoric Monuments
+**File:** `prose_school_project.md`
+**When:** October 2026. A few weeks into the school term.
+**Viewpoint:** Ned (primarily), Edmund at the close of Day Three
+**Notes:** Three days, three movements. Mr Ashby's project assignment: *choose something from the history of your local area.* Ned chooses prehistoric monuments of Somerset before he has left the building.
+
+**Day One — Stanton Drew:** Ned at the kitchen table with Miss Pardew's books, discovering Stanton Drew — second largest stone circle in Britain, older than anything he has a proper frame for, stones in a pub garden. Edmund sitting down to answer properly. The idea that the stone at Venn Court was part of a conversation across the landscape — *what were they saying? / We don't know. But they were saying something.* Ned beginning the Somerset map. Edmund: *we can go on Saturday.*
+
+**Day Two — The Sweet Track:** The arithmetic of five thousand years — the Sweet Track older than the pyramids by thirteen hundred years. Ned working it out and needing a moment with the ceiling. The OS map produced from Edmund's library — Edmund has three copies of the same sheet, each for different purposes. Finding the monument symbol on the map — the stone officially recorded, marked in Gothic script. The grid reference copied into Ned's notebook. *The real and the private, the official and the felt, on the same page.*
+
+**Day Three — Saturday at Stanton Drew:** Edmund drives. The limestone villages, the same stone as Venn Court. At the Great Circle: the scale of it, even fallen. The compass behaving differently — hunting, uncertain, distributed rather than concentrated. Edmund noting the distinction between distributed and concentrated anomaly. The Cove in the pub garden — Ned's sketch of the three stones. Ned asking whether the people who built the pub knew what the stones were. Edmund: *people have always known, on some level, that these things are not to be disturbed.* On the drive home: Ned's project question — *why do people keep coming back, even when they've forgotten what the sites were for.* Edmund alone in the car: *a question that had kept him interested for thirty years being posed as a school project by a nine year old boy.*
+
+**The buried detail:** Ned says *the stone at home* in passing, meaning the stone in the meadow. Edmund hears it. Neither of them says anything about it.
+
+---
+
 ## Still to Be Written
 
 The following scenes are planned but not yet drafted, in approximate order:
