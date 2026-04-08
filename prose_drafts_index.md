@@ -121,6 +121,14 @@ Edmund alone, processing. His private theory solidifying — the boy carries som
 
 ---
 
+### 15. The First Day of School
+**File:** `prose_first_day_of_school.md`
+**When:** September 7th, 2026. First day of Year 5.
+**Viewpoint:** Both — dual viewpoint
+**Notes:** Three movements: Ned's morning preparing and cycling in; Edmund alone in the house for the first time since mid-July, a bad sentence crossed out and a better one following; Ned coming home. Rosa noticing the compass at lunch — *navigation to where / I don't know yet.* Mr Ashby's fossil book open at crinoids. Edmund putting the kettle on when he hears the back gate. *It was all right* from Ned — enormous, for Ned. Two helpings of shepherd's pie: Edmund measuring ease in appetite, the most reliable instrument he has found. The rucksack now worn on Ned's back rather than his front — unannounced, uncommented on, noted.
+
+---
+
 ## Still to Be Written
 
 The following scenes are planned but not yet drafted, in approximate order:

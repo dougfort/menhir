@@ -128,6 +128,24 @@ He would write something careful and slightly elliptical in his PSHE journal. Hi
 
 ---
 
+## School Supplies and the Bag
+
+The school provides most classroom materials. What Ned brings from home is minimal.
+
+**The book bag** — a flat fabric bag in the school's navy blue, for reading books and notes between home and school. The physical channel between the two worlds. Edmund encounters its contents at the kitchen table each evening — reading diary, notes, the occasional permission slip. He reads every note from the school with full attention and responds promptly. The school probably thinks quite well of him on this basis alone.
+
+**The rucksack** — his own, carried on his back now. This is a small and unannounced change from the boy who arrived at Castle Cary station with his backpack on his *front*, held close, the notebooks and compass protected against his chest. At Venn Court the rucksack has migrated to his back, in the ordinary way. The notebooks are still in it. But he is not guarding them quite as tightly as he was. Edmund, who noticed the original detail at the station, notices this too. He says nothing about it.
+
+**The pencil case** — his own, slightly worn, carried from house to house. Contains pencils (several, properly sharpened), a rubber, a ruler, a sharpener. Ned is particular about his pencils. He sharpens them with the same methodical attention he brings to the kitchen garden.
+
+**A water bottle** — plain and functional.
+
+**PE kit** — a separate bag on PE days, acquired by Edmund along with the uniform. Plain white t-shirt, black shorts, trainers. Edmund bought two of the t-shirts.
+
+**School lunches** — Edmund pays for school lunches without discussion, as the simpler arrangement. Ned eating institutional primary school food — the specific texture of it — is its own small detail. He eats what is put in front of him without complaint, which has always been his way.
+
+---
+
 ## Homework
 
 The load is light — a small Somerset state primary in 2026 does not believe in burdening nine year olds. Perhaps twenty to thirty minutes on three or four evenings a week.
