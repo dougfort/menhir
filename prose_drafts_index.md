@@ -161,18 +161,49 @@ The dinner coda: Ned telling Edmund about murmurations over dinner, finding its 
 
 ---
 
+### 18. The Murmuration (Somerset Levels, Late October)
+**File:** `prose_murmuration.md`
+**When:** Late October 2026. A weekend evening, dusk.
+**Viewpoint:** Both — Edmund and Ned, with Rosa and Martin Ferris
+**Notes:** Four people at Shapwick Heath on the Somerset Levels: Ned, Rosa, Martin Ferris (Rosa's father), Edmund. Martin established immediately: broad, unhurried, the stillness of someone who waits for things. Two sentences and a handshake. His mention of the stone — his grandfather's rules about it, *you didn't touch it* — matter-of-fact, not dramatised. Edmund: *it has been here rather longer than the rules.* Martin finding this reasonable.
+
+The walk along the South Drain: Edmund realising he has lived two miles from this landscape his whole adult life and never come to watch the starlings. All those evenings at the stone. Martin and Edmund finding unexpected common ground — the same landscape known from different positions.
+
+The murmuration: Rosa going completely still, which is her best moment so far. Her father's hand on her shoulder. The peregrine through the flock — the wave of response moving at impossible speed, three hundred thousand individual decisions in the same instant. Ned's compass during the murmuration: not the stone's decisive pointing but something responsive, tracking the edge of the moving field. Edmund sees this and says nothing.
+
+The drive home: Ned's idea — *each stone responding to the nearest stones, no one in charge, but something coming out of all of them together.* Edmund: *I don't know. But I think that's rather a good way to think about it.* Then: *Rosa's father is like you. He watches things.* The kitchen light left on because they would be coming back in the dark. Edmund thought of it. He always thinks of it.
+
+---
+
+### 19. The Birthday (Tenth, October)
+**File:** `prose_birthday.md`
+**When:** Mid to late October 2026. Ned's tenth birthday.
+**Viewpoint:** Both — Ned's morning, then both for the afternoon and close
+**Notes:** Four movements.
+
+**Morning:** Edmund and Ned alone. The kitchen slightly more deliberate than usual — Mrs Perrett's good bread, the good marmalade, the table laid properly. Edmund's *happy birthday*, said once without repetition. Ned's answer to how old he feels: *like being in the part of a book where things have happened.* Edmund: *everything still possible, which I didn't know at the time.*
+
+**Afternoon:** Rosa arrives — already talking before she is through the door. Her frank assessment of the house: *medieval meaning actually medieval?* Edmund answering properly, which surprises her. Rosa discovering Ned lives with someone who writes books — *I'm going to find out what name.* The stone glimpsed from the library window. Ned: *that's the stone.* Rosa asking Edmund directly. Edmund's answer — factual, honest, incomplete. *Another time, perhaps.* Rosa filing this without pressing. Something in the way it was said.
+
+**Tea:** The lopsided Victoria sponge — Edmund's note about the baking powder. Rosa's countdown from ten. Ned blowing out the candles. Rosa's volume filling the space Ned doesn't have to fill. Edmund noting the noise of the afternoon is not unpleasant. The Collins Bird Guide from Rosa (*because you should have a real one*) and Percy Pigs (*because it's your birthday*). Ned: *these are both exactly right.*
+
+**The gifts and close:** Edmund's field notebook — Ned understanding what it is from the weight of it before he properly looks. The OS map, his own copy, his name in Edmund's hand inside the cover. Finding the stone on the map in Gothic script. *Thank you*, said to the table. Edmund: *you're welcome.* The washing up. Ned's question: *will you show me things, other things, when I'm older?* Not the adoption question — the question underneath it. Edmund's *yes*, without drama, with complete certainty. The stone in the meadow, patient and unhurried.
+
+**The buried detail:** Edmund gives Ned the field notebook in which Ned will eventually begin the book that Edmund thought might not be his own to write. Neither of them knows this yet.
+
+---
+
 ## Still to Be Written
 
 The following scenes are planned but not yet drafted, in approximate order:
 
-- **The murmuration visit** — Ned, Rosa, Rosa's father, and Edmund on the Somerset Levels at dusk. October. Three hundred thousand starlings. Edmund and Rosa's father finding unexpected common ground. Rosa going still in the way she goes still.
 - **Conversation Six** — Ned's fuller disclosure to Edmund, school term. Edmund mentioning the lamp and the watch more fully. Ned: *it happened in every house.* The first specific thing Ned tells Edmund. Edmund listening without hurry.
 - **Edmund's pseudonym revealed** — Ned finding out about the books Edmund writes. Edmund's explanation. Ned's reaction.
 - **Parents' evening** — Edmund in a primary school classroom, small plastic chair, ten minutes with Mr Ashby. The reading diary. Ned's creative writing. The debrief over tea.
 - **The Christmas concert** — Edmund in the school hall. Ned spotting him. Whatever Ned's face does.
-- **The birthday** — mid to late October, Ned's tenth. Rosa at Venn Court. *What's that out there.* Edmund and Rosa. The stone glimpsed from the kitchen window.
 - **The adoption question** — Edmund beginning to act on what he has been thinking. The solicitor. The will.
 - **Conversation Six follow-on** — more of Ned's history emerging. Edmund's theory about the stone. The book that may not be Edmund's to write.
+- **The each stone idea returned to** — Edmund alone at the stone or in the library, sitting with what Ned said in the car. Not explanation — just Edmund turning the idea over.
 
 ---
 
@@ -195,3 +226,10 @@ The following scenes are planned but not yet drafted, in approximate order:
 - `ned_school_uniform.md` — the uniform and what it means
 - `ned_year5_school.md` — curriculum, homework, school events, Edmund's participation
 - `somerset_prehistoric_sites_research.md` — maps, images, and research notes on the sites
+- `each_stone_responding.md` — the murmuration idea and its implications; a concept to return to
+
+## Meta Documents
+
+*Analytical notes about the story's craft and structure — kept separately from the working documents:*
+
+- `meta_story_craft_and_structure.md` — observations on method, structural principles, what the story is building toward
