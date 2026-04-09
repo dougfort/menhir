@@ -145,18 +145,34 @@ Edmund alone, processing. His private theory solidifying — the boy carries som
 
 ---
 
+### 17. Rosa — A Lunchtime, Late September
+**File:** `prose_rosa_lunchtime.md`
+**When:** Late September 2026. Three or four weeks into the school term.
+**Viewpoint:** Ned (primarily), with a dinner coda at Venn Court
+**Notes:** Rosa sits down across from Ned without asking — the third time she has done this. She has decided they are friends; Ned has noticed and not objected. The murmuration conversation: Rosa's father took her to Shapwick Heath on the Levels the previous evening. Three hundred thousand starlings. The seven-bird rule — each bird watches only its seven nearest neighbours, and from that simple rule emerges something that looks like a single vast intelligence. Twenty metres per second. No one in charge.
+
+Ned's question that stops her: *what does it feel like to watch one?* Rosa going briefly still — the quality of attention she brings to murmurations. Her answer: *something you can't quite look at directly.* Neither of them aware that this maps onto Ned's experience of the stone.
+
+Rosa's compass question at the end — *of which direction* — sharper than it looks. Ned's slightly evasive answer. Rosa noticing the evasion and letting it sit.
+
+Ned writing questions in his notebook before finishing his shepherd's pie.
+
+The dinner coda: Ned telling Edmund about murmurations over dinner, finding its own moment. Edmund: *she sounds like someone worth knowing.* The murmuration visit on the Levels proposed — Rosa's father, October, both of them invited. Edmund saying yes as if it were a small thing. Ned's closing thought: *at Venn Court, perhaps, this kind of thing happened.*
+
+---
+
 ## Still to Be Written
 
 The following scenes are planned but not yet drafted, in approximate order:
 
-- **The last week of summer** — kitchen garden in late August, both of them aware the rhythm is about to change
-- **First day of school** — Ned on his bicycle in the morning, Edmund alone in the house for the first time since July
-- **The school project** — local history, prehistoric Somerset, a small collaboration
-- **Conversation Six** — Ned's fuller disclosure, into the school term
-- **Edmund's pseudonym revealed** — Ned finding out about the books
-- **The friend** — someone from school named, mentioned, eventually visited
-- **The birthday** — mid to late October, Ned's tenth, school friends at Venn Court
-- **The adoption question** — Edmund beginning to act on what he has been thinking
+- **The murmuration visit** — Ned, Rosa, Rosa's father, and Edmund on the Somerset Levels at dusk. October. Three hundred thousand starlings. Edmund and Rosa's father finding unexpected common ground. Rosa going still in the way she goes still.
+- **Conversation Six** — Ned's fuller disclosure to Edmund, school term. Edmund mentioning the lamp and the watch more fully. Ned: *it happened in every house.* The first specific thing Ned tells Edmund. Edmund listening without hurry.
+- **Edmund's pseudonym revealed** — Ned finding out about the books Edmund writes. Edmund's explanation. Ned's reaction.
+- **Parents' evening** — Edmund in a primary school classroom, small plastic chair, ten minutes with Mr Ashby. The reading diary. Ned's creative writing. The debrief over tea.
+- **The Christmas concert** — Edmund in the school hall. Ned spotting him. Whatever Ned's face does.
+- **The birthday** — mid to late October, Ned's tenth. Rosa at Venn Court. *What's that out there.* Edmund and Rosa. The stone glimpsed from the kitchen window.
+- **The adoption question** — Edmund beginning to act on what he has been thinking. The solicitor. The will.
+- **Conversation Six follow-on** — more of Ned's history emerging. Edmund's theory about the stone. The book that may not be Edmund's to write.
 
 ---
 
@@ -164,10 +180,11 @@ The following scenes are planned but not yet drafted, in approximate order:
 
 *Not prose drafts but essential background:*
 
-- `story_development_notes.md` — overview and world-building
+- `story_development_notes.md` — overview, world-building, inheritance note
 - `story_chronology.md` — full timeline of events
 - `character_edmund_kelway.md` — Edmund's character sheet
 - `character_ned.md` — Ned's character sheet
+- `character_rosa.md` — Rosa's character sheet
 - `character_venn_court.md` — the estate as character
 - `character_the_stone.md` — the stone as character
 - `neds_journey_to_venn_court.md` — background document on Ned's arrival
@@ -175,3 +192,6 @@ The following scenes are planned but not yet drafted, in approximate order:
 - `edmund_and_the_stone.md` — Edmund's thirty years with the stone
 - `daily_life_venn_court.md` — the texture of ordinary days
 - `the_conversations_sequence.md` — the six conversations mapped, with literary sources
+- `ned_school_uniform.md` — the uniform and what it means
+- `ned_year5_school.md` — curriculum, homework, school events, Edmund's participation
+- `somerset_prehistoric_sites_research.md` — maps, images, and research notes on the sites
