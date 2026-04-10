@@ -193,17 +193,37 @@ The drive home: Ned's idea — *each stone responding to the nearest stones, no 
 
 ---
 
+### 20. Conversation Six (November)
+**File:** `prose_conversation_six.md`
+**When:** A Tuesday in November 2026. After school.
+**Viewpoint:** Both
+**Notes:** The scene the whole summer was building toward.
+
+**The incident:** In computing class Ned's screen flickered — small, deniable, the familiar signature. Nobody else noticed. But the sequence began in Ned's interior: the assessment, the monitoring, the return of a vigilance he had, without noticing, let soften over the months. He cycles home carrying something he didn't know how to put down.
+
+**Edmund creating the space:** Ned arrives with something off — the school shoes not quite aligned. Edmund puts the kettle on and waits. His observation: *something happened today.* Not a question. Then, carefully: the lamp, the watch, more fully stated than before. The space opened.
+
+**The physical moment:** Edmund passing behind Ned's chair on his way to the kettle, resting his hand briefly on his shoulder. Not the unpractised gesture of the first stone visit — a hand that knows the shoulder it is resting on. Brief, uncommented on.
+
+**The disclosure:** Ned tells Edmund about House Two — not as a list of incidents but as a feeling. The wrongness of a place that doesn't fit. The things starting. The adults becoming different. The practice of not hoping, the conserving of himself, the not-asking. Said in a flat precise voice that has required a lot of practice to become flat and precise. Edmund receiving it with full unhurried attention, not moving, not making sounds of sympathy. Simply present.
+
+**Edmund's theory:** The essential thing, simply put. What Ned carries is not a disorder. A sensitivity, a particular relationship with certain places, expressing itself in disturbances because there was nowhere for it to go. At Venn Court there is somewhere. The stone. Edmund: *I think this place was not the wrong place. I think it may be rather specifically the right place.* Then: *but here you are* — simply, as a fact.
+
+**The close:** An ongoing arrangement. The Lord of the Rings. The passage from *The Shadow of the Past* — *all we have to decide is what to do with the time that is given us.* Neither of them comments. They go on.
+
+---
+
 ## Still to Be Written
 
 The following scenes are planned but not yet drafted, in approximate order:
 
-- **Conversation Six** — Ned's fuller disclosure to Edmund, school term. Edmund mentioning the lamp and the watch more fully. Ned: *it happened in every house.* The first specific thing Ned tells Edmund. Edmund listening without hurry.
 - **Edmund's pseudonym revealed** — Ned finding out about the books Edmund writes. Edmund's explanation. Ned's reaction.
 - **Parents' evening** — Edmund in a primary school classroom, small plastic chair, ten minutes with Mr Ashby. The reading diary. Ned's creative writing. The debrief over tea.
 - **The Christmas concert** — Edmund in the school hall. Ned spotting him. Whatever Ned's face does.
 - **The adoption question** — Edmund beginning to act on what he has been thinking. The solicitor. The will.
-- **Conversation Six follow-on** — more of Ned's history emerging. Edmund's theory about the stone. The book that may not be Edmund's to write.
+- **Ned's history continuing** — more emerging in subsequent conversations. The other houses. Edmund's theory deepening.
 - **The each stone idea returned to** — Edmund alone at the stone or in the library, sitting with what Ned said in the car. Not explanation — just Edmund turning the idea over.
+- **The book** — Edmund's private recognition, eventually voiced, that the right book about the stone may not be his to write.
 
 ---
 

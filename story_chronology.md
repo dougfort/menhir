@@ -172,19 +172,23 @@ The deeper conversations paused — not avoided, simply not yet ready. Both of t
 
 Edmund continuing to think. Reading in the evenings. His thinking about Ned's history, about the stone, about what he is beginning to understand, becoming more ordered.
 
-### Sometime in September or October — Conversation Six
+### Mid to Late October — The Murmuration and the Birthday
 
-*Setting: Kitchen, evening. The right moment, which arrives without being arranged.*
+**The murmuration:** Rosa's father Martin takes Rosa, Ned and Edmund to Shapwick Heath on the Somerset Levels at dusk. Three hundred thousand starlings. Martin and Edmund finding unexpected common ground — the same landscape known from different positions. Martin mentioning the stone: his grandfather's rules about it, *you didn't touch it.* Rosa going completely still during the murmuration. The peregrine through the flock. Ned's compass tracking the edge of the moving field. In the car home: Ned's idea — *each stone responding to the nearest stones, no one in charge, but something coming out of all of them together.*
 
-Edmund mentions the lamp and the watch — not for the first time, but more fully. *I've been thinking about what you said.*
+**Ned's tenth birthday:** Rosa at Venn Court for the first time. Her frank assessment: *medieval meaning actually medieval?* The stone glimpsed from the library window — Ned: *that's the stone.* Rosa asking Edmund. Edmund: *another time, perhaps.* The lopsided Victoria sponge. Two helpings. The field notebook and the OS map. Ned finding the stone in Gothic script on his own map. The washing up. *Will you show me things, other things, when I'm older?* Edmund's *yes*, without drama, with complete certainty.
 
-Ned: *You noticed.*
+### A Tuesday in November — Conversation Six
 
-*Yes. I thought it might have happened before.*
+Something small happened at school — Ned's screen flickered in computing class. Nobody noticed. But the sequence began in Ned's interior, the return of a vigilance he had let soften. He cycles home carrying something he didn't know how to put down.
 
-*It did. In other houses.*
+Edmund sees it immediately. Creates the space. The lamp and the watch, more fully stated. Edmund's hand on Ned's shoulder as he passes to the kettle — a hand that knows the shoulder it is resting on.
 
-Then Ned tells him. Not everything. But something specific — the first house he can remember, the thing he has never told anyone. Edmund listens, with attention and without hurry, the way he does everything.
+Ned tells Edmund about House Two — not a list of incidents but the feeling of it. The wrongness. The practice of not hoping. Said in the flat precise voice that has required a lot of practice.
+
+Edmund's theory, simply put: not a disorder. A sensitivity, a particular relationship with certain places. At Venn Court there is somewhere for it to go. *I think this place was not the wrong place. I think it may be rather specifically the right place.* Then: *but here you are.*
+
+The Lord of the Rings that evening. The passage from *The Shadow of the Past*. Neither of them comments. They go on.
 
 ---
 

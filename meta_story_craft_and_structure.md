@@ -193,6 +193,49 @@ Small acts of consistent care, accumulated across months, are the story's defini
 
 ---
 
+## On Carrying
+
+*He was carrying something he didn't know how to put down.*
+
+This phrase from Conversation Six is the truest description of Ned's condition — not just in that scene, but across his whole history. Every house, every arrangement, every careful self-containment. He has always been carrying something he didn't know how to put down.
+
+The weight of it is not dramatic. It doesn't bend him. He has learned to carry it so efficiently that most people don't see it at all. But it is always there — in the careful alignment of the school shoes, in the practiced flatness of his voice, in the system he runs in new places, in the not-asking for things.
+
+What Venn Court has done, over these months, is not remove the weight. It has given him somewhere to set it down occasionally. The stone. The kitchen. Edmund's full unhurried attention. Not cure — *ongoing arrangement*, as Edmund says. But somewhere to put it, for now.
+
+The phrase also works as a quiet description of the stone itself. The stone has been carrying something for four thousand years — the attention and intention of whoever placed it, whoever came back to it, generation after generation. Something it was given and cannot put down. Edmund has spent thirty years in its company partly because he recognises this quality, though he could not have articulated it before Ned arrived.
+
+Two things that carry what they were given and cannot put it down, finding each other in a Somerset meadow.
+
+---
+
+## On *But Here You Are*
+
+Edmund says this in Conversation Six — simply, as a fact, after Ned has asked why it took so long. After all the houses, all the arrangements, all the careful not-hoping. After years of being somewhere temporary, Ned is somewhere he has not been removed from.
+
+*But here you are.*
+
+No sentiment, no emphasis. Just the observation that Ned is here. Which after everything is perhaps the strangest and most significant thing of all.
+
+Edmund does not say: you belong here, or you are staying, or I have decided to keep you. He says: here you are. Present tense. A fact. Ned is here. That is what exists.
+
+And Ned, who has learned not to trust futures, receives the present tense. Here he is. That is enough to start with.
+
+---
+
+## On the Touch Across the Drafts
+
+Edmund's physical gestures toward Ned are tracked carefully across the prose. Each one slightly more natural than the last:
+
+- **At the stone, first visit:** *a light, unpractised gesture, the hand of a man not accustomed to the motion but making it anyway*
+- **Conversation Six:** *a hand that knows the shoulder it is resting on* — brief, uncommented on, more certain
+
+The same gesture, months apart. The difference is not in the gesture itself but in what it comes from. In July Edmund was making an unfamiliar motion and knew it. In November the motion has become familiar, which means the relationship has become familiar, which means something has been decided without either of them deciding it.
+
+The physical ease of it is the record of everything that happened between July and November.
+
+---
+
 ## On What the Story Is Building Toward
 
 The story's destination is quiet. No dramatic confrontation, no crisis, no rescue. Just:
