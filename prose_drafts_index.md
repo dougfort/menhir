@@ -213,16 +213,53 @@ The drive home: Ned's idea — *each stone responding to the nearest stones, no 
 
 ---
 
+### 21. Parents' Evening (October)
+**File:** `prose_parents_evening.md`
+**When:** October 2026. A Thursday evening.
+**Viewpoint:** Edmund (primarily), Ned waiting at home
+**Notes:** Edmund navigating the booking system with determined patience, filing the confirmation email, saying nothing to Ned. Ned watching the car go down the lane.
+
+The corridor: Ned's geography map on the wall — more inhabited than the others. The creative writing extract: *the hill had been there before the road, and before the village, and before the name of the village.* A compass piece: *knew where north was but was not always certain north was the right direction.*
+
+Ten minutes with Mr Ashby: the exceptional English, the geography maps, the quality of attention in the history unit. Mr Ashby producing Ned's creative writing. Edmund reading each piece with full attention. Mr Ashby: *he never writes about people. He writes about places and objects.* Edmund: *I've noticed this.* Mr Ashby recalibrating.
+
+The reading diary — Algernon Blackwood in Year 5. Mr Ashby: *he's ten.* Edmund: *we read together in the evenings.* Mr Ashby moving on, filing this for later thought.
+
+The PSHE journal — the scene's discovery. Mr Ashby not producing it, but quoting it: *whether a place could know you. Whether a landscape could recognise something in a person that the person didn't recognise in themselves.* Edmund knowing the words before Mr Ashby finishes saying them. Mr Ashby's real question: *is he all right?* Edmund: *yes, increasingly all right.*
+
+Edmund sitting in the car afterward, saying the words to himself. The drive home.
+
+The debrief: Ned having made his own tea, waiting. Edmund's careful accurate account. The PSHE journal — Ned surprised Mr Ashby read it properly. Edmund's closing answer to *thank you for going*: *of course.* Which means: this is simply what happens.
+
+---
+
+### 22. The Christmas Concert (December)
+**File:** `prose_christmas_concert.md`
+**When:** Tuesday 16th December 2026, 6:30pm.
+**Viewpoint:** Edmund (primarily), Ned on stage
+**Notes:** Edmund arriving at quarter past six, choosing the third row — neither conspicuous nor distant. The particular social texture of a school Christmas concert, navigated with equanimity. Rosa appearing in the row behind with her parents — Martin's compact nod, the nod of a man who stood in a dark field with Edmund watching starlings. Rosa: *he went very still on the way in, he does that when he's nervous, didn't you know?* Edmund: *I did know. I wasn't sure you did.* A small alliance established.
+
+Year 3, Year 4. Edmund not bored, slightly surprised by this. The shepherd who lost his headdress conducting himself with great dignity.
+
+Year 5 filing on. Edmund finding Ned immediately. Ned scanning the audience, finding Edmund in the third row. The exact moment — the slight shift, the stillness deepening and then releasing. Not a smile, not a wave. The private acknowledgement of finding what you were looking for where you expected it to be. Rosa watching this and saying nothing, for once.
+
+The concert: Rosa loud and excellent. Ned singing — a clear even voice, true, knowing all the words. Edmund discovering this and filing it.
+
+Afterward: Ned finding Edmund in the crowd. *You came.* Edmund: *I told you I would* — which he hadn't, quite, but for Edmund is the same thing. Mr Ashby at the refreshments: *a happy child.* Edmund eating the mince pie from the tin, which is not especially good, because declining would have required an explanation.
+
+The drive home: Ned in the passenger seat. *Is that what he said exactly? A happy child?* Sitting with those words on the dark lane home. The kitchen light on. *Many Meetings* — Frodo in Rivendell, surrounded by people who know what he has been through and do not require him to explain it. Neither of them noting the parallel. They go on.
+
+---
+
 ## Still to Be Written
 
 The following scenes are planned but not yet drafted, in approximate order:
 
+- **The third stone visit — January** — Edmund and Ned at the stone together, with all the autumn's weight behind them. Frost on the meadow grass. The new year. Both of them different from the people who last stood here in summer.
 - **Edmund's pseudonym revealed** — Ned finding out about the books Edmund writes. Edmund's explanation. Ned's reaction.
-- **Parents' evening** — Edmund in a primary school classroom, small plastic chair, ten minutes with Mr Ashby. The reading diary. Ned's creative writing. The debrief over tea.
-- **The Christmas concert** — Edmund in the school hall. Ned spotting him. Whatever Ned's face does.
 - **The adoption question** — Edmund beginning to act on what he has been thinking. The solicitor. The will.
 - **Ned's history continuing** — more emerging in subsequent conversations. The other houses. Edmund's theory deepening.
-- **The each stone idea returned to** — Edmund alone at the stone or in the library, sitting with what Ned said in the car. Not explanation — just Edmund turning the idea over.
+- **The each stone idea returned to** — Edmund alone at the stone or in the library. Not explanation — Edmund turning the idea over.
 - **The book** — Edmund's private recognition, eventually voiced, that the right book about the stone may not be his to write.
 
 ---
@@ -250,6 +287,6 @@ The following scenes are planned but not yet drafted, in approximate order:
 
 ## Meta Documents
 
-*Analytical notes about the story's craft and structure — kept separately from the working documents:*
+*Analytical notes about the story's craft and structure:*
 
 - `meta_story_craft_and_structure.md` — observations on method, structural principles, what the story is building toward
