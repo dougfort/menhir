@@ -2,7 +2,7 @@
 
 *Two notebooks are represented here. Entries marked [OB] are from the observation notebook — the smaller one, carried in Ned's jacket pocket since before Venn Court. Entries marked [FB] are from the field notebook — Edmund's birthday gift, begun in October.*
 
-*The observation notebook entries from the summer are sparse and guarded, the handwriting of someone who has learned not to leave evidence of himself in places he might not stay. The field notebook entries are fuller. Something has changed by October. The books themselves — the decision to begin a new one, the quality of attention given to each — are part of the story.*
+*The observation notebook entries from the summer are sparse and guarded. Short sentences and fragments. The handwriting of someone who records for himself, not for a reader. The field notebook entries, from October, are fuller — not because Ned becomes more articulate, but because he has more to say and has decided this place is worth saying it about.*
 
 *Dates are approximate where the exact date is not established.*
 
@@ -11,14 +11,14 @@
 ## July 2026
 
 **[OB] ~ 15 July**
-*Castle Cary station. E.K. on the platform — piece of paper with NED on it. Chip shop. Somerset Levels from the train — flat and old. Old in a way that's hard to explain.*
+*Castle Cary. E.K. on the platform with a piece of paper that said NED. Chip shop. Somerset Levels from the train window — flat and old.*
 
 ---
 
 **[OB] ~ 15 July, later**
-*Venn Court. Old house, several periods — medieval core, Georgian front, a wing not used. Local limestone. Kitchen is the centre: flagstone floor, large range, always warm. E.K. lives alone. Writes. Library in the old dining room. Three books on the shelf in the room: The Little Prince, Wind in the Willows, Treasure Island. Put my notebook on the shelf next to them.*
+*Venn Court. Old. Several periods, the Georgian bit in front, older behind, a wing not used. Kitchen is the best room — flagstone floor, range, always warm. E.K. lives here alone. Three books on the shelf in my room: The Little Prince, Wind in the Willows, Treasure Island. He put them there on purpose.*
 
-*Signal very poor. Expected.*
+*No signal worth mentioning.*
 
 ---
 
@@ -28,244 +28,268 @@
 ---
 
 **[OB] ~ 17 July**
-*Dried up after breakfast without being asked. E.K. didn't comment. Good.*
+*Dried up after breakfast. He didn't say anything. Good.*
 
 ---
 
-**[OB] ~ Late July — first weeks**
-*Somerton. Saturday market, library (Miss Pardew — knows what she's doing), hardware shop. Green bicycle acquired. Rode back — kept having to circle back to stay near E.K. Not sure why.*
+**[OB] ~ Late July**
+*Somerton — library (Miss Pardew, knows her stuff), hardware shop (Derek). Local children on bicycles.*
+
+*Green bicycle acquired.*
 
 *Compass points correctly in Somerton. And in the lane. And in the orchard.*
 
 ---
 
-**[OB] ~ Late July — first weeks**
-*Kitchen garden. Vilmorin-Andrieux, 1885 — E.K. produced it as if it were obvious. It's a proper book. Carrots need thinning. The beans are ready.*
+**[OB] ~ Late July**
+*Kitchen garden. E.K. produced Vilmorin-Andrieux 1885 as if this were the obvious thing to do. It is a serious book. Taking it on.*
 
-*Asked about the stone — local children's version. Midnight rituals, treasure, Will Haddon's gran who was told not to go near it. Filed. Will Haddon probably wrong about most of it.*
+*Carrots need thinning. Beans ready. Pears not yet.*
+
+*Will Haddon says: midnight rituals, treasure, his gran won't go near the stone. Will is usually wrong about things but his gran is a different matter.*
 
 ---
 
 **[OB] ~ approx. 29 July — First Stone Visit**
-*Stone in the meadow. Menhir. Warm — very warm, dry when everything else is still damp. Lichen: orange-rust, grey, black patches. Leaning slightly. Grass thins on the approach, ground changes.*
+*Stone in the meadow. Menhir. Warm — unexpectedly warm, dry when the grass is still wet. Lichen: orange-rust, grey, black patches I don't have names for yet. Leans slightly.*
 
-*Nothing wrong. That's the thing. Strangest place I've been and nothing wrong.*
+*Grass gets shorter on the approach. Ground feels different.*
 
-*Compass — not north. Pointing at the stone approximately. Put it away.*
+*Nothing wrong. Strange place and nothing wrong.*
 
-*E.K. talked. First time he's said any of it out loud, I think. Something persists — not the meaning, but something underneath. He's right. Don't know yet what.*
+*Compass not north. Pointing at the stone approximately. Put it away.*
+
+*E.K. talked. Something persists here, he said — not the meaning, the meaning is gone, but something else. He's right.*
+
+*I don't know yet what.*
 
 *Venn Court.*
 
 ---
 
 **[OB] ~ approx. 1 August — The Ceremony**
-*Read Machen — 'The Ceremony'. The woman was afraid of it. I wasn't. E.K. said closer to what he thinks than anything he's read. 'Is there more?' — Yes, apparently. Rather a lot more. Given Blackwood next — The Tarn of Sacrifice, p. 67.*
+*Machen — the woman was afraid of it from when she was small. I wasn't afraid of it.*
+
+*E.K. said: closer to what I think than anything I've read.*
+
+*More to read apparently. Given Blackwood next — The Tarn of Sacrifice, p.67.*
 
 ---
 
 **[OB] ~ approx. 4 August — The Tarn of Sacrifice**
-*Blackwood better than Machen for this. The line: 'I am glad that you have come at last. We have been expecting you.' More like it.*
+*Better than Machen for this. The line: I am glad that you have come at last. We have been expecting you.*
 
-*The stone isn't frightening or sinister. It's more like — patient. Waiting. Not for anything in particular.*
+*Old. Patient. Not frightening.*
 
 ---
 
 **[OB] ~ approx. 6 August — Second Stone Visit**
-*My idea this time. E.K. had been at the same page for an hour.*
+*My idea. E.K. had been looking at the same page for an hour.*
 
-*Showed him the compass at the stone. He looked at it. No alarm. Just attention. Asked how long — only here, I said. He nodded. He was thinking something he didn't say.*
+*Showed him the compass at the stone. He looked at it. No alarm. Asked how long. Only here, I said. He nodded.*
 
-*He said: it is not obviously rubbish. About the compass pointing at the stone as if it's north. Which is the right answer.*
+*He was thinking something he didn't say yet.*
 
-*Technical papers mentioned. Going to read them.*
+*I said: it points at the stone as if that's where north should be. He said: that is not obviously rubbish.*
+
+*Asked for the technical papers.*
 
 ---
 
 **[OB] ~ approx. 8 August — Technical Papers**
-*Lethbridge. Magnetometer studies at Avebury 1978. Contested evidence. E.K.: that's basically everything about standing stones — you can look at the same thing and get completely different answers. Yes.*
+*Lethbridge. Magnetometer studies 1978 at Avebury. Contested evidence.*
 
-*Asked about his watch. He said yes — loses time near the stone. Two or three minutes an hour. Has done for twenty years.*
+*Asked about E.K.'s watch. He said yes — loses time near the stone. Has done for twenty years.*
 
-*The lamp at my end of the table. I know about the lamp. Said sorry. He said don't be. Didn't make anything of it.*
+*The lamp at my end of the table. I know about the lamp.*
+
+*Said sorry. He said don't be.*
 
 ---
 
 **[OB] ~ approx. 12 August — School**
-*E.K. asked about registering at the Somerton primary school. For September. 'If you're agreeable.'*
+*E.K. asked about the Somerton primary school. For September. If I was agreeable.*
 
-*Asked what happens at the end of summer. He said: I am not registering you at a school in order to remove you from it in July.*
+*Asked: what happens at the end of summer.*
 
-*Didn't say anything for a bit. Then: all right. Thank you. Said thank you to my tea.*
+*He said: I am not registering you at a school in order to remove you from it in July.*
+
+*All right. Thank you. Said thank you to my tea.*
 
 ---
 
 **[OB] ~ approx. 18 August — Conversation Five**
-*Asked if the compass bothers him. He said no. Said strange things happen near the stone — he's observed this for thirty years. Asked what else I'd observed.*
+*Asked if the compass bothers him. No, he said. Strange things happen near the stone — thirty years of this. He asked what else I'd observed.*
 
-*Told him: sometimes things move. Objects. In places that don't feel right.*
-
-*He asked what kind of place. Said: a place that doesn't feel right.*
-
-*He asked: and this place?*
+*Said: sometimes things move. Objects. In places that don't feel right.*
 
 *This place feels right.*
 
-*He noticed the lamp. He noticed the watch. He said: don't be, again, but about a different thing.*
+*He said he'd noticed the lamp. And his watch. He said: don't be. About a different thing this time.*
 
-*Told him it happened in every house. He said: not tonight.*
+*Told him it happened in every house. He said not tonight.*
 
-*Read Blackwood after. He made tea.*
+*He made tea. I read Blackwood.*
 
 ---
 
 ## September 2026
 
 **[OB] 7 September — First Day of School**
-*School. Year 5. Mr Ashby — fossil book open at crinoids, proper one. Rosa noticed the compass at lunch. Asked: navigation to where? Said: I don't know yet.*
+*School. Year 5. Mr Ashby — proper fossil book open at crinoids.*
+
+*Rosa at lunch noticed the compass. Asked: navigation to where. Said: I don't know yet.*
+
+*Two helpings of shepherd's pie at dinner.*
 
 *It was all right.*
 
 ---
 
 **[OB] ~ Late September**
-*Rosa. Murmurations. Her father takes her to Shapwick Heath on the Levels. Told me about the seven-bird rule — each bird watches the seven nearest birds, no one in charge, something comes out of it. Told her what it feels like to watch one. She stopped and thought.*
+*Rosa. Murmurations — her father goes to Shapwick Heath on the Levels most weekends in season. Seven-bird rule: each bird watches the seven nearest birds. No one in charge. Something comes out of all of them.*
 
-*Good question, she said Edmund would probably think so.*
+*She went still when she was telling me about what it feels like to watch one. Rosa doesn't usually go still.*
 
 ---
 
 **[OB] ~ October, Week 2 — School Project**
-*Project: prehistoric monuments of Somerset. Started Tuesday, chose topic before leaving the building.*
+*Project: prehistoric monuments of Somerset. Chose before leaving the building.*
 
-*Stanton Drew — second largest stone circle in Britain. 113m diameter. Stones in a pub garden (The Cove). E.K. has been there. Asked: why one stone on its own? He said: good question.*
+*Stanton Drew — second largest stone circle in Britain after Avebury. 113 metres. Three circles. Stones in a pub garden (The Cove — predates the circles by 1,000 years).*
 
-*E.K.: the stone at Venn Court was part of a conversation across the landscape. Each stone responding to the nearest stones. I hadn't thought of it that way.*
+*E.K. said: the stone at Venn Court wasn't put up on its own. It was part of a conversation across the landscape. Each stone responding to the nearest stones.*
+
+*Hadn't thought about it that way.*
+
+*OS map found in the library — stone marked in Gothic script. Scheduled Ancient Monument. Copied the grid reference.*
 
 ---
 
-**[OB] ~ Mid October — Stanton Drew Visit**
-*Went on Saturday. Edmund drove.*
+**[OB] ~ Mid October — Stanton Drew**
+*Edmund drove. Same stone as Venn Court — same colour, same local limestone.*
 
-*The Great Circle — fallen mostly, but the shape is there if you look. Scale makes itself felt. Compass uncertain here — hunting, not pointing. Different from the stone at home.*
+*The Great Circle: mostly fallen but the shape is there. Enormous even like this. Compass uncertain — hunting, not pointing. Not the same as the stone at home.*
 
-*Edmund: distributed vs concentrated. Many stones vs one.*
+*E.K.: distributed here, concentrated at home. Many stones versus one.*
 
-*The Cove at the pub. Three stones in a pub garden. Same quality as the stone at home. Not diminished by the parasol and the chairs. Simply itself.*
+*The Cove at the Druid's Arms. Three stones in a pub garden with plastic chairs. Same quality as the stone at home. The chairs don't change it.*
 
-*Thought: it doesn't need protecting. It doesn't need anyone's attention to be what it is. Edmund's thirty years — gift to himself as much as to the stone.*
-
-*E.K. has three copies of the same OS map. Each for different purposes.*
+*The stone doesn't need anything in particular to be what it is.*
 
 ---
 
 ## October 2026 — Field Notebook Begins
 
 **[FB] ~ 20 October — Birthday**
-*Ten. Edmund put the OS map on the table — my own copy, my name in the cover. Found the stone on it immediately. Gothic script. Scheduled Ancient Monument.*
+*Ten.*
 
-*The field notebook — right weight, right cover. For outside.*
+*Edmund: OS map, my own copy. Found the stone on it immediately. The Gothic-script symbol. My name in Edmund's handwriting inside the cover.*
 
-*Rosa came. She found the stone from the library window before I told her. Asked Edmund. He said: another time. She filed it.*
+*Field notebook — right weight, right cover. For outside.*
 
-*Washing up afterward. Asked E.K. if he'd show me things when I'm older. He said yes.*
+*Rosa came. She found the stone in the library window before I said anything. Asked Edmund. He said: another time. She didn't push.*
+
+*Washing up: asked E.K. if he'd show me things when I'm older. He said yes.*
 
 *He meant it.*
 
 ---
 
 **[FB] ~ Late October — Murmuration**
-*Shapwick Heath with Rosa and Martin Ferris and E.K. Half a million starlings, approximately — early in the season, Rosa says bigger in December.*
+*Shapwick Heath with Rosa, Martin Ferris, E.K. Early in the season — Rosa says much bigger in December. Still: maybe 300,000.*
 
-*Rosa went still. She never goes still.*
+*Rosa went completely still. She never does that.*
 
-*Compass during the murmuration — responsive, tracking the edge of the moving field. Not like the stone. Different kind of thing.*
+*Compass during the murmuration — not pointing, tracking. Moving with the edge of the flock. Different from the stone.*
 
-*In the car: thought about each stone responding to the nearest stones. No one in charge. Something emerging from all of them together. Like murmurations. Told E.K. He said: I don't know. But that might be right.*
+*In the car: told E.K. the idea about each stone responding to the nearest stones. Like a murmuration. He said: I don't know. But that might be right.*
 
-*Martin Ferris is like Edmund. He watches things. His grandfather knew about the stone.*
+*Martin Ferris watches things. His grandfather knew about the stone — the rules about not touching it.*
 
 ---
 
 ## November 2026
 
 **[FB] 3 November**
-*Something happened in computing. Screen flickered. Not wrong — familiar. Matthew didn't notice. Nobody noticed.*
+*Computing. My screen flickered. Matthew didn't notice. Nobody noticed.*
 
-*The sequence started in my head. The usual one.*
+*The old sequence started in my head.*
 
 *Cycled home. Couldn't put it down.*
 
-*E.K. saw it. Didn't ask immediately. Made tea. Said: something happened today. Not a question.*
+*E.K. saw it. Made tea first. Then: something happened today. Not a question.*
 
-*Told him about House Two. The feeling of it — not the list, the feeling. He listened the whole time without moving. Then he told me what he thinks.*
+*Told him about House Two. Not the list — what it felt like. He listened the whole time. Didn't move.*
 
-*He thinks: not a disorder. A sensitivity. The stone receives it.*
+*He said: not a disorder. A sensitivity. The stone at Venn Court receives it.*
 
 *He said: I think this place was not the wrong place.*
 
 *He said: but here you are.*
 
-*He put his hand on my shoulder when he went to the kettle. He knows what he's doing now when he does that.*
+*He put his hand on my shoulder when he went to the kettle. Knows what he's doing now when he does that.*
 
-*Read Lord of the Rings after. The passage about deciding what to do with the time that is given. Neither of us said anything.*
+*Lord of the Rings after — the bit about deciding what to do with the time that is given. Neither of us said anything about it.*
 
 ---
 
 **[FB] ~ Mid November**
-*E.K. at parents' evening. Mr Ashby mentioned the PSHE journal. (I didn't think he'd read it properly.) E.K. came home and told me — accurately, without softening. He always tells me things accurately.*
+*E.K. at parents' evening. Mr Ashby mentioned my PSHE journal — the bit about whether a place could know you.*
 
-*Apparently Mr Ashby read it properly.*
+*I didn't think he'd read it properly.*
+
+*E.K. told me what was said. He always tells me things accurately.*
 
 ---
 
 ## December 2026
 
 **[FB] 16 December — Christmas Concert**
-*School hall. E.K. in the third row. Found him when we filed on. He was where he said he would be.*
+*School hall. Third row. Found E.K. when we filed on.*
 
-*Rosa was loud. Rosa is always loud. E.K. and Rosa's father exchanged a look about this.*
+*Rosa was loud. E.K. and Martin Ferris exchanged a look.*
 
-*Drove home. E.K. said Mr Ashby told him I was a happy child. I asked: is that what he said exactly.*
+*Mr Ashby told E.K.: a happy child.*
 
-*E.K. said: yes.*
+*E.K. told me this on the way home. I asked: is that what he said exactly.*
 
-*Sat with that on the way home.*
+*He said yes.*
 
 ---
 
 **[FB] ~ Late December**
-*Christmas. Venn Court in December: the range necessary, the kitchen very warm. Dark by four. E.K. works in the mornings. I have been reading and mapping. Rode into Somerton twice when the weather allowed.*
+*Christmas break. Venn Court in December: range going all day, kitchen very warm, dark by four. E.K. works mornings. I have been reading and mapping.*
 
-*The stone visible from the kitchen window on clear nights. I've been watching it.*
+*The stone visible from the kitchen window on clear nights.*
 
 ---
 
 ## January 2027
 
 **[FB] 10 January — Third Stone Visit**
-*Frost on the meadow, gone by ten on the south side. Stone warm and dry as always. The lichen in winter is more itself than in summer — the colours cleaner. Orange-rust and grey-silver and the old black patches.*
+*Frost on the meadow, gone by ten on the south side. Stone warm and dry as always. Lichen clearer in winter — the colours more themselves. Orange-rust, grey-silver, the old black patches.*
 
-*Asked Edmund if it knows we're here. He said yes, without the usual — [crossed out] — without qualifying it. Said he'd thought so for twenty years. Resisted it for the first ten.*
+*Asked E.K. if it knows we're here. He said yes. No qualification. Said he'd thought so for twenty years — resisted it for the first ten.*
 
 *I think it knew before we came. He said that might be exactly right.*
 
-*The compass pointed. Put it away. Didn't need to show anyone.*
+*Compass pointed. Put it away. Didn't need to show anyone.*
 
-*E.K. said same time next week if weather reasonable.*
+*E.K.: same time next week if weather reasonable.*
 
-*Back in the kitchen: made tea. I wrote this.*
+*Back in the kitchen. He made tea. I wrote this.*
 
 *It does know. I'm quite sure.*
 
 ---
 
-*Notes on this document:*
+*Notes on the document:*
 
-*The observation notebook [OB] entries are sparse and guarded — Ned's handwriting compressed, the emotional content present only in what he chose to record and how. Early entries are short, factual, the record of someone assessing a new place without committing to it. The compass is noted but not interpreted. 'Not wrong sounds' after the first night. 'Venn Court.' — the single most significant early entry, two words, written alone on the page after the first stone visit.*
+*The observation notebook [OB] runs from July to September — the record of someone assessing a place without yet committing to it. Short. Factual. The compass is noted but not interpreted. 'Not wrong sounds' after the first night. 'Venn Court.' — two words alone on the page, the most significant entry of the summer.*
 
-*The field notebook [FB] entries begin in October with the birthday. Fuller. More willing to interpret. The entry for 3 November — Conversation Six — is the longest and the most direct. 'But here you are.' The entry for the January stone visit is the most certain Ned has been on the page: 'It does know. I'm quite sure.'*
+*The field notebook [FB] begins with the birthday in October. Fuller, but still spare — Ned writes observations, not essays. The entry for 3 November is the longest. The January stone entry is the most certain.*
 
-*The progression from [OB] to [FB] is itself a small story: Ned deciding, at some point in October, that this place was real enough to deserve its own book.*
+*'He meant it' — three words on their own after the birthday — is the pivot of the whole document.*
 
-*Reference format for prose drafts: (Notebook: [date or event]) — e.g., (Notebook: 29 July, First Stone Visit)*
+*Reference format: (Notebook: [OB/FB] [date or event]) — e.g., (Notebook: OB, 29 July, First Stone Visit)*

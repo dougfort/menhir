@@ -251,11 +251,30 @@ The drive home: Ned in the passenger seat. *Is that what he said exactly? A happ
 
 ---
 
+### 23. The Third Stone Visit (January)
+**File:** `prose_third_stone_visit.md`
+**When:** Saturday 10 January 2027. Morning.
+**Viewpoint:** Both
+**Notes:** Ned appears in the library doorway already in his coat and boots. *Coming?* Edmund puts down his pen.
+
+The January stone: darker than summer, more austere, the lichen vivid in the cold — orange-rust, grey-silver, the old black patches. Still warm. Still dry. In January this is more noticeable than in July.
+
+Ned's boulder — his now, by six months of habit. The compass taken out privately, checked, put away. No longer needing to show anyone. Edmund seeing this from the corner of his eye and saying nothing.
+
+The exchange: *Do you think it knows we're here?* Edmund's answer — yes, unqualified, without the philosophical hedge of the second visit. Twenty years of thinking, ten years of resisting. Then Ned: *I think it knew before we came.* Edmund: *that might be exactly right.*
+
+The ordinary close: *same time next week, if the weather is reasonable.* The most casual assumption of continuity. The walk back — the robin on the ha-ha wall, *Rosa would have statistics.* 
+
+The kitchen: Ned at the table with the field notebook, writing. Edmund making tea. Not asking, not showing. The field notebook being used for what it was for.
+
+The note at the end of the scene — what Ned wrote, shown to the reader but not yet to Edmund. Flagged in draft notes as possibly too explicit — can be removed if the scene is stronger without it. Currently kept.
+
+---
+
 ## Still to Be Written
 
 The following scenes are planned but not yet drafted, in approximate order:
 
-- **The third stone visit — January** — Edmund and Ned at the stone together, with all the autumn's weight behind them. Frost on the meadow grass. The new year. Both of them different from the people who last stood here in summer.
 - **Edmund's pseudonym revealed** — Ned finding out about the books Edmund writes. Edmund's explanation. Ned's reaction.
 - **The adoption question** — Edmund beginning to act on what he has been thinking. The solicitor. The will.
 - **Ned's history continuing** — more emerging in subsequent conversations. The other houses. Edmund's theory deepening.
@@ -284,6 +303,7 @@ The following scenes are planned but not yet drafted, in approximate order:
 - `ned_year5_school.md` — curriculum, homework, school events, Edmund's participation
 - `somerset_prehistoric_sites_research.md` — maps, images, and research notes on the sites
 - `each_stone_responding.md` — the murmuration idea and its implications; a concept to return to
+- `neds_notebooks.md` — Ned's observation notebook [OB] and field notebook [FB], July 2026 to January 2027; a parallel prose thread running alongside the main drafts. Reference format: (Notebook: [OB/FB] [date or event])
 
 ## Meta Documents
 
