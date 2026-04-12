@@ -271,15 +271,30 @@ The note at the end of the scene — what Ned wrote, shown to the reader but not
 
 ---
 
+### 24. The Adoption (February)
+**File:** `prose_adoption.md`
+**When:** A Thursday in February 2027.
+**Viewpoint:** Both — Edmund and Ned for the hearing, all four for the lunch
+**Notes:** Four movements.
+
+**Morning — the hearing:** Edmund and Ned drive to Wells. The smallest city in England, the easy confidence of somewhere that has been itself for a very long time. The cathedral across the market square. The celebration hearing: brief, warm, the judge who has read the file and says something careful about the road that brought Ned here. The bird guide — a field guide to the birds of Somerset, proper, adult. Ned's involuntary *it's a proper one.* Edmund's mild private amusement. The certificate handed over. Outside on the courthouse steps: Ned's *thank you*, said to Edmund's face for the first time. Edmund's *of course* — meaning this was always going to happen.
+
+**The certificate:** folded and placed in Ned's jacket pocket, next to the compass. Two things that tell you where you are. Both in the same pocket from now on.
+
+**Midday — the lunch:** Rosa sees them through the window and is outside before they reach the step. She hugs Ned — a proper one, Rosa-sized, held for a moment longer than most people would. Ned's arms eventually coming up. *Finally*, Rosa says. *I've been waiting since October.* Fine. Fine? That's it, fine. Fine, Rosa. Rosa reading the *fine* correctly and accepting it. Then at some point Rosa to Edmund, directly: *he's lucky, you both are.* Edmund: *yes, we are.* Ned looking at his plate. Martin's compact nod.
+
+**Afternoon — the drive home:** Martin takes Rosa in the Land Rover. Rosa's look through the window at Ned — half a second, everything she hasn't said. Edmund and Ned alone, Somerset lanes, the Levels. Ned taking out the certificate and looking at it in the fading light, then folding it back. Then: *home* — said quietly, to no one in particular, or to the house, or to the fact of it. The kitchen light on. Edmund had left it on because they would be coming back.
+
+**The close:** The bird guide on the shelf — next to the OS map and the compass and Edmund's three books that have been there since the first evening. Ned at the kitchen table, the field notebook open. Edmund making tea.
+
+---
+
 ## Still to Be Written
 
 The following scenes are planned but not yet drafted, in approximate order:
 
-- **Edmund's pseudonym revealed** — Ned finding out about the books Edmund writes. Edmund's explanation. Ned's reaction.
-- **The adoption question** — Edmund beginning to act on what he has been thinking. The solicitor. The will.
-- **Ned's history continuing** — more emerging in subsequent conversations. The other houses. Edmund's theory deepening.
-- **The each stone idea returned to** — Edmund alone at the stone or in the library. Not explanation — Edmund turning the idea over.
-- **The book** — Edmund's private recognition, eventually voiced, that the right book about the stone may not be his to write.
+- **The stone conversation** — Edmund and Ned at the stone after the adoption. The most direct thing either of them has said to the other. Edmund: *I think you understand this place better than I do.* The each stone idea returning here, in its final form. Father and son.
+- **The book** — Edmund's private recognition, eventually voiced. Ned beginning to write something in the field notebook. Not knowing what it is. Edmund knowing.
 
 ---
 
@@ -303,7 +318,8 @@ The following scenes are planned but not yet drafted, in approximate order:
 - `ned_year5_school.md` — curriculum, homework, school events, Edmund's participation
 - `somerset_prehistoric_sites_research.md` — maps, images, and research notes on the sites
 - `each_stone_responding.md` — the murmuration idea and its implications; a concept to return to
-- `neds_notebooks.md` — Ned's observation notebook [OB] and field notebook [FB], July 2026 to January 2027; a parallel prose thread running alongside the main drafts. Reference format: (Notebook: [OB/FB] [date or event])
+- `neds_notebooks.md` — Ned's observation notebook [OB] and field notebook [FB], July 2026 to January 2027; a parallel prose thread. Reference format: (Notebook: [OB/FB] [date or event])
+- `wells_somerset_research.md` — research notes on Wells for future story development; Wookey Hole, the cathedral, the Bishop's Palace, Vicars' Close, the holy wells
 
 ## Meta Documents
 

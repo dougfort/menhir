@@ -198,21 +198,50 @@ The Lord of the Rings that evening. The passage from *The Shadow of the Past*. N
 
 Six or seven weeks into the school term. Ned has been at Somerton primary school long enough to have made one or two genuine connections — the first friendships with actual history.
 
-Edmund asks, carefully, whether Ned would like anyone to come to Venn Court for his birthday. He does not assume. He does not make it a production. Ned names someone — whoever he names tells Edmund something important about who Ned is becoming in Somerton.
+Edmund asks, carefully, whether Ned would like anyone to come to Venn Court for his birthday. He does not assume. He does not make it a production. Ned names Rosa — who tells Edmund this is about time, she's been waiting since October.
 
-Edmund organises the party with characteristic seriousness and mild bafflement. Good food. A cake, baked with focused attention, which turns out surprisingly well. The house made available in a way it hasn't been before — children in the kitchen, the yard, the orchard. Edmund somewhere in the background, finding it not unpleasant.
+Edmund organises the party with characteristic seriousness and mild bafflement. Good food. A cake, baked with focused attention, which turns out surprisingly well but leans. The house made available in a way it hasn't been before — children in the kitchen, the yard, the orchard. Edmund somewhere in the background, finding it not unpleasant.
 
-A child from school standing in the kitchen at Venn Court, meeting Edmund, glimpsing the meadow through the window and asking what that stone is. The ordinary world and the strange world touching for the first time.
+Rosa sees the stone from the library window. *What's that out there.* Edmund: *another time, perhaps.* Rosa filing this without pressing.
 
-The birthday marks the end of the second movement and the beginning of the third. By this point:
-- The adoption question is moving toward something formal
-- Ned has disclosed more of his history to Edmund
-- The stone has become shared territory
-- The two worlds — the estate and Somerton — are beginning to connect
+Edmund's gifts: the field notebook and the OS map. Ned's name in Edmund's hand inside the cover. Ned finding the stone's Gothic-script symbol on his own map. The washing up. Ned's question: *will you show me things, other things, when I'm older?* Edmund's *yes*, without drama, with complete certainty.
+
+### Late October 2026 — The Murmuration
+
+Shapwick Heath on the Somerset Levels. Rosa and Martin Ferris, Edmund, Ned. Three hundred thousand starlings. Rosa going completely still. The peregrine through the flock. The compass tracking the edge of the moving field. In the car: Ned's idea — *each stone responding to the nearest stones, no one in charge, but something coming out of all of them together.* Edmund: *I don't know. But that might be right.*
+
+### November 2026 — Conversation Six
+
+A computing screen flickered at school — small, familiar, the old sequence beginning in Ned's interior. He cycles home carrying something he didn't know how to put down. Edmund creates the space. The lamp, the watch, more fully stated. Edmund's hand on Ned's shoulder — a hand that knows the shoulder it is resting on. Ned tells Edmund about House Two — not a list but a feeling. Edmund's theory: not a disorder, a sensitivity, the stone receives it. *I think this place was not the wrong place. But here you are.* The Lord of the Rings. *All we have to decide is what to do with the time that is given us.*
+
+### October and November 2026 — School Events
+
+**Parents' evening (October):** Edmund in a small chair across a table from Mr Ashby. The reading diary. Ned's creative writing. The geography maps. The PSHE journal — *whether a place could know you, whether a landscape could recognise something in a person that the person didn't recognise in themselves.* Edmund sitting in the car afterward, saying the words to himself. Ned having made tea while he waited.
+
+**Christmas concert (December 16th):** Edmund in the third row. Ned finding him from the stage — the private acknowledgement of finding what you were looking for where you expected it to be. Rosa loud and excellent. Mr Ashby: *a happy child.* Ned in the car: *is that what he said exactly?* The kitchen light on.
+
+### January 2027 — Third Stone Visit
+
+Frost on the meadow. Ned in the library doorway, coat and boots. *Coming?* The January stone — darker, more austere, the lichen vivid. Ned's compass checked privately and put away. *Do you think it knows we're here?* Edmund: yes, unqualified. *I think it knew before we came.* Edmund: *that might be exactly right.* Same time next week if weather reasonable. Back in the kitchen: Ned at the table with the field notebook. Edmund making tea.
+
+### February 2027 — The Adoption
+
+A Thursday. Edmund and Ned drive to Wells — the smallest city in England, the easy confidence of somewhere that has been itself for a very long time. The celebration hearing: brief, warm, the judge who has read the file. The bird guide given — a field guide to the birds of Somerset, proper, adult. Ned's *it's a proper one.* The certificate. Outside on the courthouse steps: Ned's *thank you*, said to Edmund's face. Edmund's *of course.*
+
+The certificate in Ned's jacket pocket next to the compass. Two things that tell you where you are.
+
+Rosa at the lunch — already outside before they reach the step. She hugs Ned properly and holds on. His arms eventually coming up. *Finally, I've been waiting since October.* Fine. Fine? *Fine, Rosa.* Rosa reading it correctly. Then: *he's lucky, you both are.* Edmund: *yes, we are.* Martin's compact nod.
+
+The drive home. Rosa's look through the Land Rover window — everything she hasn't said. Edmund and Ned through the Somerset lanes. The certificate looked at in the fading light and refolded. Then: *home* — said quietly, to no one in particular. The kitchen light on.
+
+The bird guide on the shelf next to the OS map and the compass and Edmund's three books. Ned at the kitchen table, the field notebook open. Edmund making tea.
 
 ---
 
-## Horizon — What the Story Is Moving Toward
+## Still to Come
+
+- **The stone conversation** — Edmund and Ned at the stone after the adoption. Father and son. The most direct exchange between them. Edmund arriving at: *I think you understand this place better than I do.* The each stone idea in its final form.
+- **The book** — Ned beginning to write something in the field notebook. Not knowing what it is. Edmund knowing.
 
 - The adoption question moving from Edmund's private thinking to something that requires action
 - Ned's history fully disclosed to Edmund — not all at once, not dramatically
