@@ -289,12 +289,37 @@ The note at the end of the scene — what Ned wrote, shown to the reader but not
 
 ---
 
-## Still to Be Written
+### 25. The Stone Conversation (February)
+**File:** `prose_stone_conversation.md`
+**When:** Two days after the adoption. A Saturday morning in February 2027.
+**Viewpoint:** Both
+**Notes:** The father and son scene. The most direct exchange in the story.
 
-The following scenes are planned but not yet drafted, in approximate order:
+**The approach:** Ned already in his coat in the kitchen. *Going to the stone.* Edmund joining without being asked. February — snowdrops at the orchard wall, the blackthorn beginning to think about spring. Ned touching the stone briefly as he passes, the way you touch the shoulder of someone you are walking with.
 
-- **The stone conversation** — Edmund and Ned at the stone after the adoption. The most direct thing either of them has said to the other. Edmund: *I think you understand this place better than I do.* The each stone idea returning here, in its final form. Father and son.
-- **The book** — Edmund's private recognition, eventually voiced. Ned beginning to write something in the field notebook. Not knowing what it is. Edmund knowing.
+**Edmund speaks:** About the each stone idea — each stone responding to the nearest stones, something coming from all of them together. He has been thinking about it since October. What he has arrived at: thirty years of observing one note, one stone, the particular thing this place does. Then Ned arrived. *I think you understand this place better than I do.* Not because of the books or the observation. Because Ned is in conversation with the stone — not observing it. The stone, or this landscape, has been waiting for someone who could do that. *And here you are.*
+
+**Ned's response:** Not simply receiving the statement. Returning something. He doesn't think the stone was waiting for him specifically — it's been in conversation the whole time, with the landscape, with the other stones, with everyone who came here. *I'm just the first person who noticed it was talking.* Then: *You've been noticing for thirty years. That's not nothing.* Edmund's thirty years received not as inferior to six months but as their own kind of understanding — necessary, different, real.
+
+**The nudge:** Ned stands. Looks at the stone. Then steps sideways once so his shoulder is against Edmund's. A small contact — barely anything and everything. Both of them looking at the stone. Edmund receiving it steadily, without making anything of it. Then Ned steps away and they walk back.
+
+**The walk back:** Side by side, the same pace. When had that happened. The snowdrops. The house ahead.
+
+**The close:** The kitchen. Edmund puts the kettle on. Ned at the kitchen table, the field notebook open, a blank page. The pencil in his hand. Sitting before he begins something. Edmund making tea and not asking.
+
+*The blank page is where the story ends.*
+
+---
+
+## The Story Is Complete
+
+Twenty-five prose drafts. A blank page at the end.
+
+The story ends not with a conclusion but with a beginning that belongs to Ned — and to the reader's imagination. Like the last Calvin and Hobbes strip: everything ahead, unseen, undrawn. The sled at the top of the hill.
+
+What comes next — what Ned writes, what the field notebook becomes, what Edmund eventually reads — belongs to a different story, or to no story, or to the space beyond the last page.
+
+The stone in the meadow. Patient and unhurried. Having been doing this for rather longer than any of them has been alive.
 
 ---
 
